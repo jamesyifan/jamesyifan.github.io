@@ -4,10 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<!-- {% if author.googlescholar %} -->
-<!--   You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?hl=en&user=olsrsjEAAAAJ)}}">my Google Scholar profile</a>.</u> -->
-<!-- {% endif %} -->
-You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?hl=en&user=olsrsjEAAAAJ)}}">my Google Scholar profile</a>.</u>
 (\* Equal Contribution)
 * **Yifan Wang**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Yu Han, Mingyang Yin, Jingren Zhou, Hongxia Yang and Ming Zhang. AD-AUG: Adversarial Data Augmentation for Counterfactual Recommendation. To appear in ECML-PKDD's 2022. <span style="color:red">CCF-B</span>
 * **Yifan Wang**, Yifang Qin, Fang Sun, Bo Zhang, Xuyang Hou, Ke Hu, Jia Cheng, Jun Lei and Ming Zhang. DisenCTR: Dynamic Graph-based Disentangled Representation for Click-Through Rate Prediction. To appear in SIGIR's 2022. <span style="color:red">CCF-A</span>
