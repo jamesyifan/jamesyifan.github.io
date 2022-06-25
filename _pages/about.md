@@ -26,7 +26,7 @@ Research interests
 * Apr. 2022: One paper has been accepted by IJCAI'2022!!
 * Jan. 2022: One paper has been accepted by DASFAA'2022!!
 * Dec. 2021: One paper has been accepted by AAAI'2022 with oral presentation!!
-* Oct. 2021. I joined DAMO Academy, Alibaba Group as a research intern, working on counterfactual data augmentation for recommendation, under the supervision of Hongxia Yang (https://sites.google.com/site/hystatistics/home).
+* Oct. 2021. I joined DAMO Academy, Alibaba Group as a research intern, working on counterfactual data augmentation for recommendation, under the supervision of [Hongxia Yang](https://sites.google.com/site/hystatistics/home).
 * Oct. 2020. I joined Meituan Dianping Group as a research intern, working on graph representation learning and cross-domain recommendation.
 * Jul. 2020: One paper has been accepted by CIKM'2020!!
 * Oct. 2019: One paper has been accepted by WSDM'2019!!
@@ -43,8 +43,18 @@ Publications
 * **Yifan Wang**, Suyao Tang, Yuntong Lei, Weiping Song, Sheng Wang and Ming Zhang. DisenHAN: Disentangled Heterogeneous Graph Attention Network for Recommendation. CIKM's 2020. <span style="color:red">CCF-B</span>
 * Ming Zhang, Shixing Liu and **Yifan Wang**. Session-based Thread Recommendation for Online Course Forum with Self-Attention. EDUCON's 2020.
 * Weiping Song, Zhiping Xiao, **Yifan Wang**, Laurent Charlin, Ming Zhang and Jian Tang. Session-based social recommendation via dynamic graph attention networks. WSDM's 2019. <span style="color:red">CCF-B</span>
-* Tao Ren, Miaomiao Liu, Yanjie Xu and **Yifan Wang**. Prediction of damage results of complex network under grey information attack. Journal of Intelligent & Fuzzy Systems, 2018, 35(3): 3147-3162. <span style="color:red">SCI</span>
-* Tao Ren, Yifan Wang, Miaomiao Liu and Yanjie Xu. Analysis of robustness of urban bus network. Chinese Physics B (SCI), 2016,25(2): 020101. <span style="color:red">SCI</span>
-* Tao Ren, **Yifan Wang**, Dan Du, Miaomiao Liu, Awais Siddiqi. The Guitar Chord-Generating Algorithm Based on Complex Network. Physica A: Statistical Mechanics and its Applications, 2016, 443: 1-13. <span style="color:red">SCI</span>
-* Tao Ren, **Yifan Wang**, Miaomiao Liu, Caijuan Li, Yiyang Liu. The Consensus of Nonlinear Multi-agent System with Switching Topologies and Communication Failure. Journal of Intelligent & Fuzzy Systems, 2016, 30(2): 1199-1206. <span style="color:red">SCI</span>
-* Qian Zhu, Zhiliang Zhu, **Yifan Wang**, Tao Ren. Fuzzy-Information-Based Robustness of Interconnected Networks Against Attacks and Failures. Physica A: Statistical Mechanics and its Applications, 2016, 458: 194-203. <span style="color:red">SCI</span>
+* Tao Ren, Miaomiao Liu, Yanjie Xu and **Yifan Wang**. Prediction of damage results of complex network under grey information attack. Journal of Intelligent & Fuzzy Systems, 2018, 35(3): 3147-3162. <span style="color:red">SCI, JCR Q2</span>
+* Tao Ren, Yifan Wang, Miaomiao Liu and Yanjie Xu. Analysis of robustness of urban bus network. Chinese Physics B (SCI), 2016,25(2): 020101. <span style="color:red">SCI, JCR Q2</span>
+* Tao Ren, **Yifan Wang**, Dan Du, Miaomiao Liu, Awais Siddiqi. The Guitar Chord-Generating Algorithm Based on Complex Network. Physica A: Statistical Mechanics and its Applications, 2016, 443: 1-13. <span style="color:red">SCI, JCR Q2</span>
+* Tao Ren, **Yifan Wang**, Miaomiao Liu, Caijuan Li, Yiyang Liu. The Consensus of Nonlinear Multi-agent System with Switching Topologies and Communication Failure. Journal of Intelligent & Fuzzy Systems, 2016, 30(2): 1199-1206. <span style="color:red">SCI, JCR Q2</span>
+* Qian Zhu, Zhiliang Zhu, **Yifan Wang**, Tao Ren. Fuzzy-Information-Based Robustness of Interconnected Networks Against Attacks and Failures. Physica A: Statistical Mechanics and its Applications, 2016, 458: 194-203. <span style="color:red">SCI, JCR Q2</span>
+* 朱潜, 王一帆, 朱志良, 任涛. 灰色信息攻击下相依网络的鲁棒性. 东北大学学报(自然科学版), 2016, 37(10): 1393-1397. <span style="color:red">EI</span>
+
+Honors and Awards
+=====
+* Dec. 2021: **Award for Scientific Research**, Peking University
+* Jan. 2017: **Outstanding Graduate in Liaoning Province**, Liaoning Province
+* Oct. 2017: **Merit student**, Northeastern University
+* Oct. 2016: **National Scholarship**, Northeastern University
+* Oct. 2016: **The First Price Scholarship**, Northeastern University
+* Oct. 2015: **The First Price Scholarship**, Northeastern University
