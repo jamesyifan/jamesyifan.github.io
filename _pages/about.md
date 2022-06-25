@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Since Sept. 2017, Yifan Wang (王一帆) is pursuing my Ph.D. degree in Computer Science at Peking University, under the supervision of Prof. [Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/). 
+Since Sep. 2017, Yifan Wang (王一帆) is pursuing my Ph.D. degree in Computer Science at Peking University, under the supervision of Prof. [Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/). 
 
 <span style="color:red">I'm on job market now! If you are interested in me, contact me via yifanwang@pku.edu.cn</span>
 
