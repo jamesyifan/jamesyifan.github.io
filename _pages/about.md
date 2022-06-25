@@ -20,16 +20,16 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
-* Jun. 2022: One paper has been accepted by ECML-PKDD'2022!!
-* Apr. 2022: One paper has been accepted by IJCNN'2022!!
-* Apr. 2022: One paper has been accepted by SIGIR'2022!!
-* Apr. 2022: One paper has been accepted by IJCAI'2022!!
-* Jan. 2022: One paper has been accepted by DASFAA'2022!!
-* Dec. 2021: One paper has been accepted by AAAI'2022 with oral presentation!!
+* Jun. 2022: One paper has been accepted by ECML-PKDD'2022!
+* Apr. 2022: One paper has been accepted by IJCNN'2022!
+* Apr. 2022: One paper has been accepted by SIGIR'2022!
+* Apr. 2022: One paper has been accepted by IJCAI'2022!
+* Jan. 2022: One paper has been accepted by DASFAA'2022!
+* Dec. 2021: One paper has been accepted by AAAI'2022 with oral presentation!
 * Oct. 2021. I joined DAMO Academy, Alibaba Group as a research intern, working on counterfactual data augmentation for recommendation, under the supervision of [Hongxia Yang](https://sites.google.com/site/hystatistics/home).
 * Oct. 2020. I joined Meituan Dianping Group as a research intern, working on graph representation learning and cross-domain recommendation.
-* Jul. 2020: One paper has been accepted by CIKM'2020!!
-* Oct. 2019: One paper has been accepted by WSDM'2019!!
+* Jul. 2020: One paper has been accepted by CIKM'2020!
+* Oct. 2019: One paper has been accepted by WSDM'2019!
 
 Publications
 =====
