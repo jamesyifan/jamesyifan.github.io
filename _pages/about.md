@@ -54,7 +54,7 @@ Honors and Awards
 =====
 * Dec. 2021: **Award for Scientific Research**, Peking University
 * Jan. 2017: **Outstanding Graduate in Liaoning Province**, Liaoning Province
-* Oct. 2017: **Merit student**, Northeastern University
+* Oct. 2016: **Merit student**, Northeastern University
 * Oct. 2016: **National Scholarship**, Northeastern University
 * Oct. 2016: **The First Price Scholarship**, Northeastern University
 * Oct. 2015: **The First Price Scholarship**, Northeastern University
