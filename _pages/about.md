@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,26 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Since Sept. 2017, Wei Ju (琚玮) is pursuing my Ph.D. degree in Computer Science at Peking University, under the supervision of Prof. [Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/). 
+<span style="color:red">I'm on job market now! If you are interested in me, contact me via juwei@pku.edu.cn</span>
 
-A data-driven personal website
+Research interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* Deep Learning, Data Mining
+* Graph Representation Learning, Graph Neural Networks
+* Disentangled Representation Learning
+* Recommender Systems, Natural Language Processing (especially text generation)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<span style="color:red">What’s New</span>
+=====
+* Jun. 2022: One paper has been accepted by ECML-PKDD'2022!!
+* Apr. 2022: One paper has been accepted by IJCNN'2022!!
+* Apr. 2022: One paper has been accepted by SIGIR'2022!!
+* Apr. 2022: One paper has been accepted by IJCAI'2022!!
+* Jan. 2022: One paper has been accepted by DASFAA'2022!!
+* Dec. 2021: One paper has been accepted by AAAI'2022 with ORAL presentation!!
+* Oct. 2021. I joined DAMO Academy, Alibaba Group as a research intern, working on graph representation leanring and recommender systems, under the supervision of Hongxia Yang (https://sites.google.com/site/hystatistics/home).
+* Jul. 2020: One paper has been accepted by CIKM'2020!!
+* Oct. 2019: One paper has been accepted by WSDM'2019!!
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Publications
+=====
+(\* Equal Contribution)
+* **Yifan Wang**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Yu Han, Mingyang Yin, Jingren Zhou, Hongxia Yang and Ming Zhang. AD-AUG: Adversarial Data Augmentation for Counterfactual Recommendation. To appear in ECML-PKDD 2022. <span style="color:red">CCF-B</span>
+* **Yifan Wang**, Yifang Qin, Fang Sun, Bo Zhang, Xuyang Hou, Ke Hu, Jia Cheng, Jun Lei and Ming Zhang. DisenCTR: Dynamic Graph-based Disentangled Representation for Click-Through Rate Prediction. To appear in SIGIR 2022. <span style="color:red">CCF-A</span>
+* **Yifan Wang**, Jianhao Shen, Yiping Song, Sheng Wang, Ming Zhang. HE-SNE: Heterogeneous Event Sequence-based Streaming Network Embedding for Dynamic Behaviors. To appear in IJCNN 2022. <span style="color:red">CCF-C</span>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
 ------
