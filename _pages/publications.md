@@ -5,10 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 (\* Equal Contribution)
+2024
+====
 1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
 Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, **Yifan Wang**, Xiao Luo, and Ming Zhang <br>
 ***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
+2023
+====
 1. *Unsupervised Graph-level Representation Learning with Hierarchical Contrasts* [[Paper](../files/NN-HGCL.pdf)] <br>
 Wei Ju, Yiyang Gu, Xiao Luo, **Yifan Wang**, Haochen Yuan, Huasong Zhong, and Ming Zhang. <br>
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
@@ -18,6 +22,8 @@ Yifang Qin<sup>\*</sup>, **Yifan Wang**<sup>\*</sup>, Fang Sun<sup>\*</sup>, Wei
 ACM International Conference on Web Search and Data Mining <br>
 ***WSDM 2023, <span style="color:red">CCF-B</span>***
 
+2022
+====
 1.  *Kernel-based Substructure Exploration for Next POI Recommendation* [[Paper](https://arxiv.org/pdf/2210.03969.pdf)][[Code](https://github.com/Fang6ang/KBGNN)] <br>
 Wei Ju, Yifang Qin, Ziyue Qiao, Xiao Luo, **Yifan Wang**, Yanjie Fu, and Ming Zhang <br>
 IEEE International Conference on Data Mining <br>
@@ -53,6 +59,8 @@ International Joint Conference on Artificial Intelligence <br>
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2022, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
 
+2020
+====
 1. *DisenHAN: Disentangled Heterogeneous Graph Attention Network for Recommendation* <br>
 **Yifan Wang**, Suyao Tang, Yuntong Lei, Weiping Song, Sheng Wang and Ming Zhang <br>
 ACM International Conference on Information & Knowledge Management <br>
@@ -63,11 +71,15 @@ Ming Zhang, Shixing Liu and **Yifan Wang** <br>
 IEEE Global Engineering Education Conference <br>
 ***EDUCON 2020, <span style="color:red">EI</span>***
 
+2019
+====
 1. *Session-based Social Recommendation via Dynamic Graph Attention Networks* <br>
 Weiping Song, Zhiping Xiao, **Yifan Wang**, Laurent Charlin, Ming Zhang and Jian Tang <br>
 ACM International Conference on Web Search and Data Mining <br>
 ***WSDM 2019, <span style="color:red">CCF-B</span>***
 
+Before 2018
+====
 1. *Prediction of Damage Results of Complex Network under Grey Information Attack* <br>
 Tao Ren, Miaomiao Liu, Yanjie Xu and **Yifan Wang** <br>
 ***Journal of Intelligent & Fuzzy Systems 2018, <span style="color:red">JCR Q2</span>***
