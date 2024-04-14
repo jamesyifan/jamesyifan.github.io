@@ -67,6 +67,11 @@ Yifang Qin<sup>\*</sup>, **Yifan Wang**<sup>\*</sup>, Fang Sun<sup>\*</sup>, Wei
 ACM International Conference on Web Search and Data Mining <br>
 ***WSDM 2023, <span style="color:red">CCF-B</span>***
 
+1.  *Kernel-based Substructure Exploration for Next POI Recommendation* [[Paper](https://arxiv.org/pdf/2210.03969.pdf)][[Code](https://github.com/Fang6ang/KBGNN)] <br>
+Wei Ju, Yifang Qin, Ziyue Qiao, Xiao Luo, **Yifan Wang**, Yanjie Fu, and Ming Zhang <br>
+IEEE International Conference on Data Mining <br>
+***ICDM 2022, <span style="color:red">CCF-B</span>, 🏆 <span style="color:orange">Best Paper Finalist</span>***
+
 1. *AD-AUG: Adversarial Data Augmentation for Counterfactual Recommendation* <br>
 **Yifan Wang**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Yu Han, Mingyang Yin, Jingren Zhou, Hongxia Yang and Ming Zhang <br>
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases <br>
@@ -109,7 +114,7 @@ IEEE Global Engineering Education Conference <br>
 
 1. *Session-based Social Recommendation via Dynamic Graph Attention Networks* <br>
 Weiping Song, Zhiping Xiao, **Yifan Wang**, Laurent Charlin, Ming Zhang and Jian Tang <br>
-ACM International Conference on Web Search and Data Mining
+ACM International Conference on Web Search and Data Mining <br>
 ***WSDM 2019 <span style="color:red">CCF-B</span>***
 
 1. *Prediction of Damage Results of Complex Network under Grey Information Attack* <br>
