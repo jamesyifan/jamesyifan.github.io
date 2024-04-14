@@ -60,7 +60,7 @@ IEEE Global Engineering Education Conference <br>
 
 1. *Session-based Social Recommendation via Dynamic Graph Attention Networks* <br>
 Weiping Song, Zhiping Xiao, **Yifan Wang**, Laurent Charlin, Ming Zhang and Jian Tang <br>
-ACM International Conference on Web Search and Data Mining
+ACM International Conference on Web Search and Data Mining <br>
 ***WSDM 2019 <span style="color:red">CCF-B</span>***
 
 1. *Prediction of Damage Results of Complex Network under Grey Information Attack* <br>
