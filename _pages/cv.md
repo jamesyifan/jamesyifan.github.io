@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+* 2023.08-Now: Assistant Professor
+  * School of Information Technology & Management, University of International Business and Economics
+
 * 2021.10-2022.06: Research Intern
   * DAMO Academy, Alibaba Group
   * Duties included: Counterfactual Data Augmentation for Recommendation
