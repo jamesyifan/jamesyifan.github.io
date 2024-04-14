@@ -144,9 +144,29 @@ Qian Zhu, Zhiliang Zhu, **Yifan Wang**, Tao Ren <br>
 
 Honors and Awards
 =====
+* Nov. 2022: 🏆 **Best Paper Finalist**, ICDM
 * Dec. 2021: **Award for Scientific Research**, Peking University
 * Jan. 2017: **Outstanding Graduate in Liaoning Province**, Liaoning Province
 * Oct. 2016: **Merit student**, Northeastern University
 * Oct. 2016: **National Scholarship**, Northeastern University
 * Oct. 2016: **The First Price Scholarship**, Northeastern University
 * Oct. 2015: **The First Price Scholarship**, Northeastern University
+
+Program Committee Member and Reviewer
+=====
+Journal:
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* IEEE Transactions on Intelligent Vehicles (TIV)
+* IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
+* Information Fusion (IF)
+* Information Processing and Management (IPM)
+* Neural Networks (NN)
+* Knowledge-Based Systems (KBS)
+* Frontiers of Computer Science (FCS)
+* PLOS ONE
+* Multimedia Systems
+
+Conference:
+* 2024: ICML, KDD, WWW, ACL, AAAI, IJCAI, ACMMM
+* 2023: KDD, AAAI, IJCAI
+* 2022: IJCNN
