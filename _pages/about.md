@@ -23,7 +23,7 @@ Research interests
 <span style="color:red">What’s New</span>
 =====
 * **Feb. 2024**: One paper has been accepted by ***Neural Networks 2024*** !!
-* Aug. 2023: I joined the School of Information Technology & Management, University of International Business and Economics as an assistant professor.
+* **Aug. 2023**: I joined the School of Information Technology & Management, University of International Business and Economics as an assistant professor.
 * **Oct. 2022**: One paper has been accepted by ***WSDM 2023*** !!
 * **Nov. 2022**: 🏆 We win the ***<span style="color:orange">Best Paper Finalist</span>*** in ***ICDM 2022*** !!
 * **Nov. 2022**: One paper has been accepted by ***Neural Networks 2023*** !!
@@ -114,8 +114,8 @@ ACM International Conference on Web Search and Data Mining
 
 1. *Prediction of Damage Results of Complex Network under Grey Information Attack* <br>
 Tao Ren, Miaomiao Liu, Yanjie Xu and **Yifan Wang** <br>
-Journal of Intelligent & Fuzzy Systems, 2018, 35(3): 3147-3162 <br>
-***<span style="color:red">SCI, JCR Q2</span>***
+***Journal of Intelligent & Fuzzy Systems 2018, <span style="color:red">JCR Q2</span>***
+<!--2018, 35(3): 3147-3162-->
 
 1. *Analysis of Robustness of Urban Bus Network* <br>
 Tao Ren, **Yifan Wang**, Miaomiao Liu and Yanjie Xu <br>
