@@ -83,8 +83,8 @@ International Joint Conference on Neural Networks <br>
 ***IJCNN 2022. <span style="color:red">CCF-C</span>***
 
 1. *Deep Graph Mutual Learning for Cross-domain Recommendation* <br>
-**Yifan Wang**, Yongkang Li, Shuai Li, Weiping Song, Jiangke Fan, Shan Gao, Ling Ma, Bing Cheng, Xunliang Cai, Sheng Wang and Ming Zhang. <br>
-International Conference on Database Systems for Advanced Applications
+**Yifan Wang**, Yongkang Li, Shuai Li, Weiping Song, Jiangke Fan, Shan Gao, Ling Ma, Bing Cheng, Xunliang Cai, Sheng Wang and Ming Zhang <br>
+International Conference on Database Systems for Advanced Applications <br>
 ***DASFAA 2022 <span style="color:red">CCF-B</span>***
 
 1. *TGNN: A Joint Semi-supervised Framework for Graph-level Classification* <br>
