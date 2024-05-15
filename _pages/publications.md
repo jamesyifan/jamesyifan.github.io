@@ -7,6 +7,21 @@ author_profile: true
 (\* Equal Contribution)
 2024
 ====
+1.  *Hypergraph-enhanced Dual Semi-supervised Graph Classification* [[Paper]()] <br>
+Wei Ju, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, **Yifan Wang**, Xiao Luo, and Ming Zhang <br>
+International Conference on Machine Learning <br>
+***ICML 2024, <span style="color:red">CCF-A</span>***
+
+1.  *A Survey of Data-Efficient Graph Learning* [[Paper](https://arxiv.org/pdf/2402.00447.pdf)] <br>
+Wei Ju, Siyu Yi, **Yifan Wang**, Qingqing Long, Junyu Luo, Zhiping Xiao, and Ming Zhang <br>
+International Joint Conference on Artificial Intelligence <br>
+***IJCAI 2024, <span style="color:red">CCF-A</span>***
+
+1.  *Rank and Align: Towards effective Source-free Graph Domain Adaptation* [[Paper]()] <br>
+Junyu Luo, Zhiping Xiao, **Yifan Wang**, Xiao Luo, Jingyang Yuan, Wei Ju, Langechuan Liu, and Ming Zhang <br>
+International Joint Conference on Artificial Intelligence <br>
+***IJCAI 2024, <span style="color:red">CCF-A</span>***
+
 1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
 Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, **Yifan Wang**, Xiao Luo, and Ming Zhang <br>
 ***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
