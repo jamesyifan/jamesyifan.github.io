@@ -22,6 +22,8 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **May. 2024**: One papers have been accepted by ***ICML 2024*** !!
+* **Apr. 2024**: Two papers have been accepted by ***IJCAI 2024*** !!
 * **Feb. 2024**: One paper has been accepted by ***Neural Networks 2024*** !!
 * **Aug. 2023**: I joined the School of Information Technology & Management, University of International Business and Economics as an assistant professor.
 * **Oct. 2022**: One paper has been accepted by ***WSDM 2023*** !!
@@ -41,6 +43,11 @@ Research interests
 
 Survey
 =====
+1.  *A Survey of Data-Efficient Graph Learning* [[Paper](https://arxiv.org/pdf/2402.00447.pdf)] <br>
+Wei Ju, Siyu Yi, **Yifan Wang**, Qingqing Long, Junyu Luo, Zhiping Xiao, and Ming Zhang <br>
+International Joint Conference on Artificial Intelligence <br>
+***IJCAI 2024, <span style="color:red">CCF-A</span>***
+
 1. *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
 Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, **Yifan Wang**, Xiao Luo, and Ming Zhang. <br>
 ***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
@@ -54,6 +61,11 @@ Wei Ju, Siyu Yi, **Yifan Wang**, Qingqing Long, Junyu Luo, Zhiping Xiao, and Min
 Publications
 =====
 (\* Equal Contribution)
+1.  *Hypergraph-enhanced Dual Semi-supervised Graph Classification* [[Paper]()] <br>
+Wei Ju, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, **Yifan Wang**, Xiao Luo, and Ming Zhang <br>
+International Conference on Machine Learning <br>
+***ICML 2024, <span style="color:red">CCF-A</span>***
+
 1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
 Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, **Yifan Wang**, Xiao Luo, and Ming Zhang <br>
 ***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
