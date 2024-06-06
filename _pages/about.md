@@ -193,6 +193,6 @@ Journal:
 * Multimedia Systems
 
 Conference:
-* 2024: ICML, KDD, WWW, ACL, AAAI, IJCAI, ACMMM
+* 2024: NeurIPS, ICML, KDD, WWW, ACL, AAAI, IJCAI, ACMMM
 * 2023: KDD, AAAI, IJCAI
 * 2022: IJCNN
