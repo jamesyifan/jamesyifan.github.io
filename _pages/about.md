@@ -147,32 +147,26 @@ ACM International Conference on Web Search and Data Mining <br>
 1. *Prediction of Damage Results of Complex Network under Grey Information Attack* <br>
 Tao Ren, Miaomiao Liu, Yanjie Xu and **Yifan Wang** <br>
 ***Journal of Intelligent & Fuzzy Systems 2018, <span style="color:red">JCR Q2</span>***
-<!--2018, 35(3): 3147-3162-->
 
 1. *Analysis of Robustness of Urban Bus Network* <br>
 Tao Ren, **Yifan Wang**, Miaomiao Liu and Yanjie Xu <br>
 ***Chinese Physics B 2016, <span style="color:red">JCR Q2</span>, <span style="color:orange">Student First Author</span>***
-<!--2016,25(2): 020101-->
 
 1. *The Guitar Chord-Generating Algorithm Based on Complex Network* <br>
 Tao Ren, **Yifan Wang**, Dan Du, Miaomiao Liu, Awais Siddiqi <br>
 ***Physica A: Statistical Mechanics and its Applications 2016, <span style="color:red">JCR Q2</span>, <span style="color:orange">Student First Author</span>***
-<!--2016, 443: 1-13-->
 
 1. *The Consensus of Nonlinear Multi-agent System with Switching Topologies and Communication Failure* <br>
 Tao Ren, **Yifan Wang**, Miaomiao Liu, Caijuan Li, Yiyang Liu <br>
 ***Journal of Intelligent & Fuzzy Systems 2016, <span style="color:red">JCR Q2</span>, <span style="color:orange">Student First Author</span>***
-<!--2016, 30(2): 1199-1206-->
 
 1. *Fuzzy-Information-Based Robustness of Interconnected Networks Against Attacks and Failures* <br>
 Qian Zhu, Zhiliang Zhu, **Yifan Wang**, Tao Ren <br>
 ***Physica A: Statistical Mechanics and its Applications 2016, <span style="color:red">JCR Q2</span>***
-<!--2016, 458: 194-203-->
 
 1. *灰色信息攻击下相依网络的鲁棒性* <br>
 朱潜, 王一帆, 朱志良, 任涛 <br>
 ***东北大学学报(自然科学版) 2016, <span style="color:red">EI</span>, <span style="color:red">学生一作</span>***
-<!--2016, 37(10): 1393-1397-->
 
 Honors and Awards
 =====
