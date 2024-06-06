@@ -57,8 +57,8 @@ Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin,
 1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
 Wei Ju, Siyu Yi, **Yifan Wang**, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Xiao Luo, Philip S Yu, and Ming Zhang <br>
 
-1.  *A Survey of Data-Efficient Graph Learning* [[Paper](https://arxiv.org/pdf/2402.00447.pdf)] <br>
-Wei Ju, Siyu Yi, **Yifan Wang**, Qingqing Long, Junyu Luo, Zhiping Xiao, and Ming Zhang <br>
+1.  *Towards Graph Contrastive Learning: A Survey and Beyond* [[Paper](https://arxiv.org/pdf/2405.11868.pdf)] <br>
+**Wei Ju**, Yifan Wang, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Junyu Luo, Junwei Yang, Yiyang Gu, Dongjie Wang, Qingqing Long, Siyu Yi, Xiao Luo, and Ming Zhang <br>
 
 Publications
 =====
