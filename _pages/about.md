@@ -22,7 +22,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
-<!--* **May. 2024**: One papers have been accepted by ***Data Science and Engineering 2024*** !!-->
+* **May. 2024**: One papers have been accepted by ***Data Science and Engineering 2024*** !!
 * **May. 2024**: One papers have been accepted by ***IEEE Transactions on Multimedia 2024*** !!
 * **May. 2024**: One papers have been accepted by ***ICML 2024*** !!
 * **Apr. 2024**: Two papers have been accepted by ***IJCAI 2024*** !!
@@ -63,9 +63,9 @@ Wei Ju, Siyu Yi, **Yifan Wang**, Qingqing Long, Junyu Luo, Zhiping Xiao, and Min
 Publications
 =====
 (\* Equal Contribution)
-<!--1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [[Paper]()] <br>
-Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Wei Ju, Chong Chen, Xian-Sheng Hua, **Yifan Wang**, Xiao Luo, Ming Zhang <br>
-***Data Science and Engineering 2024, <span style="color:red">CCF-C, JCR Q2, IF=4.2</span>***-->
+1.  *Graph-enhanced Prompt Learning for Personalized Review Generation* [[Paper]()] <br>
+Xiaoru Qu, **Yifan Wang**, Zhao Li, Jun Gao <br>
+***Data Science and Engineering 2024, <span style="color:red">CCF-C, JCR Q2, IF=4.2</span>***
 
 1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [[Paper]()] <br>
 Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Wei Ju, Chong Chen, Xian-Sheng Hua, **Yifan Wang**, Xiao Luo, Ming Zhang <br>
