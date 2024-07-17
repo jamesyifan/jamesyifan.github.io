@@ -22,6 +22,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **Jul. 2024**: One papers have been accepted by ***IEEE Transactions on Neural Networks and Learning Systems 2024*** !!
 * **May. 2024**: One papers have been accepted by ***Data Science and Engineering 2024*** !!
 * **May. 2024**: One papers have been accepted by ***IEEE Transactions on Multimedia 2024*** !!
 * **May. 2024**: One papers have been accepted by ***ICML 2024*** !!
@@ -63,6 +64,11 @@ Wei Ju, **Yifan Wang**, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Junyu Luo, Junw
 Publications
 =====
 (\* Equal Contribution)
+1. *DisenSemi: Semi-supervised Graph Classification via Disentangled Representation Learning* [[Paper]()] <be>
+**Yifan Wang**, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang and Wei Ju <br>
+IEEE Transactions on Neural Networks and Learning Systems <br>
+***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>***
+
 1.  *Graph-enhanced Prompt Learning for Personalized Review Generation* [[Paper]()] <br>
 Xiaoru Qu, **Yifan Wang**, Zhao Li, Jun Gao <br>
 ***Data Science and Engineering 2024, <span style="color:red">CCF-C, JCR Q2, IF=4.2</span>, <span style="color:orange">Corresponding Author</span>***
