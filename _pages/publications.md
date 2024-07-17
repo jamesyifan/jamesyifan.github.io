@@ -7,13 +7,20 @@ author_profile: true
 (\* Equal Contribution)
 2024
 ====
+1. *DisenSemi: Semi-supervised Graph Classification via Disentangled Representation Learning* [[Paper]()] <br>
+**Yifan Wang**, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang and Wei Ju <br>
+IEEE Transactions on Neural Networks and Learning Systems <br>
+***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>***
+
 1.  *Graph-enhanced Prompt Learning for Personalized Review Generation* [[Paper]()] <br>
 Xiaoru Qu, **Yifan Wang**, Zhao Li, Jun Gao <br>
-***Data Science and Engineering 2024, <span style="color:red">CCF-C, JCR Q2, IF=4.2</span>, <span style="color:orange">Corresponding Author</span>***
+Data Science and Engineering <br>
+***DSE 2024, <span style="color:red">CCF-C, JCR Q2, IF=4.2</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [[Paper]()] <br>
-Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Wei Ju, Chong Chen, Xian-Sheng Hua, **Yifan Wang**, Xiao Luo, Ming Zhang <br>
-***IEEE Transactions on Multimedia 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>***
+Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Wei Ju, Chong Chen, Xian-Sheng Hua, **Yifan Wang**, Xiao Luo, Ming Zhang <be>
+IEEE Transactions on Multimedia <br>
+***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>***
 
 1.  *Hypergraph-enhanced Dual Semi-supervised Graph Classification* [[Paper]()] <br>
 Wei Ju, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, **Yifan Wang**, Xiao Luo, and Ming Zhang <br>
