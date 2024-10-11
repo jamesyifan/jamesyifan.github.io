@@ -180,7 +180,9 @@ Qian Zhu, Zhiliang Zhu, **Yifan Wang**, Tao Ren <br>
 
 Honors and Awards
 =====
+* Sep. 2024: [**Outstanding Doctoral Dissertation Award (The First Place in ACM SIGCSE Chapter)**](https://mp.weixin.qq.com/s/wn_w2CF9PjVRGgkpXoqcrA), ACM SIGCSE
 * Nov. 2022: 🏆 **Best Paper Finalist**, ICDM
+* Jan. 2022: **Best Practices in Research Collaboration Award**, Meituan
 * Dec. 2021: **Award for Scientific Research**, Peking University
 * Jan. 2017: **Outstanding Graduate in Liaoning Province**, Liaoning Province
 * Oct. 2016: **Merit student**, Northeastern University
