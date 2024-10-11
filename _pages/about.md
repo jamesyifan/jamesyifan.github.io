@@ -22,6 +22,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **Sep. 2024**: Honored to be awared ***<span style="color:orange">2024 Outstanding Doctoral Dissertation Award</span>*** of ***ACM SIGCSE*** !!
 * **Jul. 2024**: One papers have been accepted by ***IEEE Transactions on Neural Networks and Learning Systems 2024*** !!
 * **May. 2024**: One papers have been accepted by ***Data Science and Engineering 2024*** !!
 * **May. 2024**: One papers have been accepted by ***IEEE Transactions on Multimedia 2024*** !!
@@ -32,11 +33,12 @@ Research interests
 * **Oct. 2022**: One paper has been accepted by ***WSDM 2023*** !!
 * **Nov. 2022**: 🏆 We win the ***<span style="color:orange">Best Paper Finalist</span>*** in ***ICDM 2022*** !!
 * **Nov. 2022**: One paper has been accepted by ***Neural Networks 2023*** !!
-* **Seq. 2022**: One paper has been accepted by ***ICDM 2022*** !!
+* **Sep. 2022**: One paper has been accepted by ***ICDM 2022*** !!
 * **Jun. 2022**: One paper has been accepted by ***ECML-PKDD 2022*** !!
 * **Apr. 2022**: One paper has been accepted by ***IJCNN 2022*** !!
 * **Apr. 2022**: One paper has been accepted by ***SIGIR 2022*** !!
 * **Apr. 2022**: One paper has been accepted by ***IJCAI 2022*** !!
+* **Jan. 2022**: Honored to be awared ***<span style="color:orange">2021 Best Practices in Research Collaboration Award</span>*** of ***Meituan*** !!
 * **Jan. 2022**: One paper has been accepted by ***DASFAA 2022*** !!
 * **Dec. 2021**: One paper has been accepted by ***AAAI 2022*** with oral presentation !!
 * **Oct. 2021**. I joined DAMO Academy, Alibaba Group as a research intern, working on counterfactual data augmentation for recommendation, under the supervision of [Hongxia Yang](https://sites.google.com/site/hystatistics/home).
