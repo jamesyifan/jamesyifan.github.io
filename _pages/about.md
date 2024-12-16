@@ -22,6 +22,11 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **Dec. 2024**: One papers have been accepted by ***AAAI 2025*** !!
+* **Dec. 2024**: One papers have been accepted by ***IEEE Transactions on Multimedia 2024*** !!
+* **Nov. 2024**: Honored to be appointed as a committee member of the ***<span style="color:orange">Large Models and Generation (LMG) Committee of the Chinese Information Processing Society (CIPS)</span>*** !!
+* **Nov. 2024**: One papers have been accepted by ***ACM Transactions on Knowledge Discovery from Data 2024*** !!
+* **Nov. 2024**: One papers have been accepted by ***ACM Transactions on Knowledge Discovery from Data 2024*** !!
 * **Sep. 2024**: Honored to be awared ***<span style="color:orange">2024 Outstanding Doctoral Dissertation Award</span>*** of ***ACM SIGCSE*** !!
 * **Jul. 2024**: One papers have been accepted by ***IEEE Transactions on Neural Networks and Learning Systems 2024*** !!
 * **May. 2024**: One papers have been accepted by ***Data Science and Engineering 2024*** !!
@@ -66,6 +71,16 @@ Wei Ju, **Yifan Wang**, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Junyu Luo, Junw
 Publications
 =====
 (\* Equal Contribution)
+1.  *DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation* [[Paper]()] <br>
+Hourun Li, **Yifan Wang**<sup>\*</sup>, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, Wei Ju <br>
+IEEE Transactions on Multimedia <br>
+***AAAI 2025, <span style="color:red">CCF-A</span>***
+
+1.  *Hypergraph Consistency Learning with Relational Distillation* [[Paper]()] <br>
+Siyu Yi, Zhengyang Mao, **Yifan Wang**, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, Wei Ju <br>
+IEEE Transactions on Multimedia <br>
+***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>***
+
 1. *DisenSemi: Semi-supervised Graph Classification via Disentangled Representation Learning* [[Paper]()] <br>
 **Yifan Wang**, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang and Wei Ju <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
