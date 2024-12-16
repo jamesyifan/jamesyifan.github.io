@@ -73,12 +73,17 @@ Publications [[See All](https://jamesyifan.github.io/publications/)]
 1.  *DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation* [[Paper]()] <br>
 Hourun Li, **Yifan Wang<sup>\*</sup>**, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, Wei Ju <br>
 IEEE Transactions on Multimedia <br>
-***AAAI 2025, <span style="color:red">CCF-A</span>***
+***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
 
 1.  *Hypergraph Consistency Learning with Relational Distillation* [[Paper]()] <br>
 Siyu Yi, Zhengyang Mao, **Yifan Wang**, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, Wei Ju <br>
 IEEE Transactions on Multimedia <br>
 ***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>***
+
+1.  *Learning Knowledge-diverse Experts for Long-tailed Graph Classification* [[Paper]()] <br>
+Zhengyang Mao, Wei Ju, Siyu Yi, **Yifan Wang**, Zhiping Xiao, Qingqing Long, Nan Yin, Xinwang Liu, Ming Zhang <br>
+ACM Transactions on Knowledge Discovery from Data <br>
+***TKDD 2024, <span style="color:red">CCF-B, JCR Q1, IF=4.0</span>***
 
 1. *DisenSemi: Semi-supervised Graph Classification via Disentangled Representation Learning* [[Paper]()] <br>
 **Yifan Wang**, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang and Wei Ju <br>
@@ -116,7 +121,7 @@ Wei Ju, Yiyang Gu, Xiao Luo, **Yifan Wang**, Haochen Yuan, Huasong Zhong, and Mi
 1. *DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation* [[Paper](https://arxiv.org/pdf/2210.16591.pdf)] <br>
 Yifang Qin<sup>\*</sup>, **Yifan Wang<sup>\*</sup>**, Fang Sun<sup>\*</sup>, Wei Ju, Xuyang Hou, Zhe Wang, Jia Cheng, Jun Lei, and Ming Zhang <br>
 ACM International Conference on Web Search and Data Mining <br>
-***WSDM 2023, <span style="color:red">CCF-B</span>***
+***WSDM 2023, <span style="color:red">CCF-B</span>, <span style="color:orange">Co-first Author</span>***
 
 1.  *Kernel-based Substructure Exploration for Next POI Recommendation* [[Paper](https://arxiv.org/pdf/2210.03969.pdf)][[Code](https://github.com/Fang6ang/KBGNN)] <br>
 Wei Ju, Yifang Qin, Ziyue Qiao, Xiao Luo, **Yifan Wang**, Yanjie Fu, and Ming Zhang <br>
