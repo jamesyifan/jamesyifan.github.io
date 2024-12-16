@@ -26,7 +26,6 @@ Research interests
 * **Dec. 2024**: One papers have been accepted by ***IEEE Transactions on Multimedia 2024*** !!
 * **Nov. 2024**: Honored to be appointed as a committee member of the ***<span style="color:orange">Large Models and Generation (LMG) Committee of the Chinese Information Processing Society (CIPS)</span>*** !!
 * **Nov. 2024**: One papers have been accepted by ***ACM Transactions on Knowledge Discovery from Data 2024*** !!
-* **Nov. 2024**: One papers have been accepted by ***ACM Transactions on Knowledge Discovery from Data 2024*** !!
 * **Sep. 2024**: Honored to be awared ***<span style="color:orange">2024 Outstanding Doctoral Dissertation Award</span>*** of ***ACM SIGCSE*** !!
 * **Jul. 2024**: One papers have been accepted by ***IEEE Transactions on Neural Networks and Learning Systems 2024*** !!
 * **May. 2024**: One papers have been accepted by ***Data Science and Engineering 2024*** !!
