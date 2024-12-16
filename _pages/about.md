@@ -67,11 +67,11 @@ Wei Ju, Siyu Yi, **Yifan Wang**, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang 
 1.  *Towards Graph Contrastive Learning: A Survey and Beyond* [[Paper](https://arxiv.org/pdf/2405.11868.pdf)] <br>
 Wei Ju, **Yifan Wang**, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Junyu Luo, Junwei Yang, Yiyang Gu, Dongjie Wang, Qingqing Long, Siyu Yi, Xiao Luo, and Ming Zhang <br>
 
-Publications
+Publications [[See All](https://jamesyifan.github.io/publications/)]
 =====
-(\* Equal Contribution)
+(\* Equal Contribution, \# Corresponding Author)
 1.  *DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation* [[Paper]()] <br>
-Hourun Li, **Yifan Wang**<sup>\*</sup>, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, Wei Ju <br>
+Hourun Li, **Yifan Wang<sup>\*</sup>**, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, Wei Ju <br>
 IEEE Transactions on Multimedia <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>***
 
@@ -86,7 +86,7 @@ IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2024, <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>***
 
 1.  *Graph-enhanced Prompt Learning for Personalized Review Generation* [[Paper]()] <br>
-Xiaoru Qu, **Yifan Wang**, Zhao Li, Jun Gao <br>
+Xiaoru Qu, **Yifan Wang<sup>\#</sup>**, Zhao Li, Jun Gao <br>
 Data Science and Engineering <br>
 ***DSE 2024, <span style="color:red">CCF-C, JCR Q2, IF=4.2</span>, <span style="color:orange">Corresponding Author</span>***
 
@@ -114,7 +114,7 @@ Wei Ju, Yiyang Gu, Xiao Luo, **Yifan Wang**, Haochen Yuan, Huasong Zhong, and Mi
 ***Neural Networks 2023, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
 1. *DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation* [[Paper](https://arxiv.org/pdf/2210.16591.pdf)] <br>
-Yifang Qin<sup>\*</sup>, **Yifan Wang**<sup>\*</sup>, Fang Sun<sup>\*</sup>, Wei Ju, Xuyang Hou, Zhe Wang, Jia Cheng, Jun Lei, and Ming Zhang <br>
+Yifang Qin<sup>\*</sup>, **Yifan Wang<sup>\*</sup>**, Fang Sun<sup>\*</sup>, Wei Ju, Xuyang Hou, Zhe Wang, Jia Cheng, Jun Lei, and Ming Zhang <br>
 ACM International Conference on Web Search and Data Mining <br>
 ***WSDM 2023, <span style="color:red">CCF-B</span>***
 
@@ -190,7 +190,7 @@ Qian Zhu, Zhiliang Zhu, **Yifan Wang**, Tao Ren <br>
 
 1. *灰色信息攻击下相依网络的鲁棒性* <br>
 朱潜, 王一帆, 朱志良, 任涛 <br>
-***东北大学学报(自然科学版) 2016, <span style="color:red">EI</span>, <span style="color:red">学生一作</span>***
+***东北大学学报(自然科学版) 2016, <span style="color:red">EI</span>, <span style="color:orange">学生一作</span>***
 
 Honors and Awards
 =====
