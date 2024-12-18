@@ -72,7 +72,7 @@ Publications [[See All](https://jamesyifan.github.io/publications/)]
 (\* Equal Contribution, \# Corresponding Author)
 1.  *DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation* [[Paper]()] <br>
 Hourun Li, **Yifan Wang<sup>\*</sup>**, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, Wei Ju <br>
-IEEE Transactions on Multimedia <br>
+AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
 
 1.  *Hypergraph Consistency Learning with Relational Distillation* [[Paper]()] <br>
@@ -225,6 +225,7 @@ Journal:
 * Multimedia Systems
 
 Conference:
-* 2024: NeurIPS, ICML, KDD, WWW, ACL, AAAI, IJCAI, ACMMM
+* 2025: ICLR, ICML, AAAI, WWW 
+* 2024: ICLR, NeurIPS, ICML, KDD, WWW, ACL, AAAI, IJCAI, ACMMM
 * 2023: KDD, AAAI, IJCAI
 * 2022: IJCNN
