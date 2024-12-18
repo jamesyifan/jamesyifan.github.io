@@ -17,7 +17,10 @@ Research interests
 * Graph Representation Learning, Graph Neural Networks
 * Disentangled Representation Learning
 * Self-supervised/Contrastive Learning, Semi-supervised Learning on Graphs
+* Data-Efficient/Data-Centric Graph Learning
+* LLM and its Applications
 * Recommender Systems, Natural Language Processing (especially text generation)
+* Bioinformatics, Drug Discovery
 * Knowledge Graph, Knowledge Graph Reasoning
 
 <span style="color:red">What’s New</span>
@@ -220,6 +223,7 @@ Journal:
 * Information Processing and Management (IPM)
 * Neural Networks (NN)
 * Knowledge-Based Systems (KBS)
+* Expert Systems with Applications (ESWA)
 * Frontiers of Computer Science (FCS)
 * PLOS ONE
 * Multimedia Systems
