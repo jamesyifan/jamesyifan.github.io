@@ -10,7 +10,7 @@ author_profile: true
 ====
 1.  *DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation* [[Paper]()] <br>
 Hourun Li, **Yifan Wang<sup>\*</sup>**, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, Wei Ju <br>
-IEEE Transactions on Multimedia <br>
+AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
 
 2024
