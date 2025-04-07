@@ -25,6 +25,9 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **Mar. 2025**: One papers have been accepted by ***IEEE Transactions on Multimedia 2025*** !!
+* **Feb. 2025**: One papers have been accepted by ***Information Sciences 2025*** !!
+* **Jan. 2025**: One papers have been accepted by ***Information Processing and Management 2025*** !!
 * **Dec. 2024**: One papers have been accepted by ***AAAI 2025*** !!
 * **Dec. 2024**: One papers have been accepted by ***IEEE Transactions on Multimedia 2024*** !!
 * **Nov. 2024**: Honored to be appointed as a committee member of the ***<span style="color:orange">Large Models and Generation (LMG) Committee of the Chinese Information Processing Society (CIPS)</span>*** !!
@@ -73,6 +76,19 @@ Wei Ju, **Yifan Wang**, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Junyu Luo, Junw
 Publications [[See All](https://jamesyifan.github.io/publications/)]
 =====
 (\* Equal Contribution, \# Corresponding Author)
+1.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper]()] <br>
+Yuntai Ding, Tao Ren, **Yifan Wang**, Chong Chen, Xian-Sheng Hua, Wei Ju <br>
+IEEE Transactions on Multimedia <br>
+***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *GMR-Rec: Graph mutual regularization learning for multi-domain recommendation* [[Paper](../files/IS25-GMR-Rec.pdf)] <br>
+**Yifan Wang**, Yangzi Yang, Shuai Li, Yutao Xie, Zhiping Xiao, Ming Zhang, Wei Ju <br>
+***Information Sciences 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.1</span>***
+
+1.  *MHGC: Multi-scale hard sample mining for contrastive deep graph clustering* [[Paper]()] <br>
+Tao Ren, Haodong Zhang, **Yifan Wang**, Wei Ju, Chengwu Liu, Fanchun Meng, Siyu Yi, Xiao Luo <br>
+***Information Processing and Management 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.4</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation* [[Paper]()] <br>
 Hourun Li, **Yifan Wang<sup>\*</sup>**, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, Wei Ju <br>
 AAAI Conference on Artificial Intelligence <br>
