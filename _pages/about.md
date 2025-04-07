@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yifan Wang (王一帆) is currently an assistant professor School of Information Technology & Management, University of International Business and Economics. Prior to that, he received his Ph.D. degree in Computer Science from Peking University in Jan. 2023, under the supervision of Prof. [Ming Zhang](https://cs.pku.edu.cn/info/1086/1730.htm). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as recommender systems, drug discovery, natural language processing and knowledge graphs.
+Yifan Wang is currently an assistant professor School of Information Technology & Management, University of International Business and Economics. Prior to that, he received his Ph.D. degree in Computer Science from Peking University in Jan. 2023, under the supervision of Prof. [Ming Zhang](https://cs.pku.edu.cn/info/1086/1730.htm). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as recommender systems, drug discovery, natural language processing and knowledge graphs. His work has received <a href='[https://scholar.google.com/citations?user=GX05vA4AAAAJ&hl=en]([https://scholar.google.com/citations?user=olsrsjEAAAAJ&hl=en](https://scholar.google.com/citations?user=olsrsjEAAAAJ&hl=en))'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations in total, with a cumulative journal impact factor exceeding 100.
 
 <span style="color:red">I am also open to various collaborations! If you are interested in me, contact me via yifanwang@uibe.edu.cn</span>
 
@@ -97,7 +97,7 @@ AAAI Conference on Artificial Intelligence <br>
 1.  *Hypergraph Consistency Learning with Relational Distillation* [[Paper]()] <br>
 Siyu Yi, Zhengyang Mao, **Yifan Wang**, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, Wei Ju <br>
 IEEE Transactions on Multimedia <br>
-***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>***
+***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>***
 
 1.  *Learning Knowledge-diverse Experts for Long-tailed Graph Classification* [[Paper]()] <br>
 Zhengyang Mao, Wei Ju, Siyu Yi, **Yifan Wang**, Zhiping Xiao, Qingqing Long, Nan Yin, Xinwang Liu, Ming Zhang <br>
@@ -117,7 +117,7 @@ Data Science and Engineering <br>
 1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [[Paper]()] <br>
 Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Wei Ju, Chong Chen, Xian-Sheng Hua, **Yifan Wang**, Xiao Luo, Ming Zhang <br>
 IEEE Transactions on Multimedia <br>
-***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>***
+***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>***
 
 1.  *Hypergraph-enhanced Dual Semi-supervised Graph Classification* [[Paper]()] <br>
 Wei Ju, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, **Yifan Wang**, Xiao Luo, and Ming Zhang <br>
