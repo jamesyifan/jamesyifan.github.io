@@ -8,6 +8,11 @@ author_profile: true
 
 2025
 ====
+1.  *PALA: Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment* [[Paper]()] <br>
+Xin Ma, **Yifan Wang<sup>\*</sup>**, Siyu Yi, Wei Ju, Bei Wu, Ziyue Qiao, Chenwei Tang and Jiancheng Lv <br>
+International Joint Conference on Artificial Intelligence <br>
+***IJCAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
+
 1.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper]()] <br>
 Yuntai Ding, Tao Ren, **Yifan Wang**, Chong Chen, Xian-Sheng Hua, Wei Ju <br>
 IEEE Transactions on Multimedia <br>
