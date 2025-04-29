@@ -27,6 +27,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **Apr. 2025**: One papers have been accepted by ***IJCAI 2025*** !!
 * **Mar. 2025**: One papers have been accepted by ***IEEE Transactions on Multimedia 2025*** !!
 * **Feb. 2025**: One papers have been accepted by ***Information Sciences 2025*** !!
 * **Jan. 2025**: One papers have been accepted by ***Information Processing and Management 2025*** !!
@@ -81,6 +82,11 @@ Wei Ju, **Yifan Wang**, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Junyu Luo, Junw
 Publications [[See All](https://jamesyifan.github.io/publications/)]
 =====
 (\* Equal Contribution, \# Corresponding Author)
+1.  *PALA: Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment* [[Paper]()] <br>
+Xin Ma, **Yifan Wang**, Siyu Yi, Wei Ju, Bei Wu, Ziyue Qiao, Chenwei Tang and Jiancheng Lv <br>
+International Joint Conference on Artificial Intelligence <br>
+***IJCAI 2025, <span style="color:red">CCF-A</span>***
+
 1.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper]()] <br>
 Yuntai Ding, Tao Ren, **Yifan Wang**, Chong Chen, Xian-Sheng Hua, Wei Ju <br>
 IEEE Transactions on Multimedia <br>
