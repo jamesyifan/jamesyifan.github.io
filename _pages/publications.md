@@ -8,6 +8,10 @@ author_profile: true
 
 2025
 ====
+1. *DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning* [[Paper]()] <br>
+**Yifan Wang**<sup>\*</sup>, Hourun Li<sup>\*</sup>, Ling Yue, Zhiping Xiao, Jia Yang, Changling Zhou, Wei Ju, Ming Zhang, Xiao Luo <br>
+***ICML 2025, <span style="color:red">CCF-A</span>***
+
 1.  *PALA: Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment* [[Paper]()] <br>
 Xin Ma, **Yifan Wang<sup>\*</sup>**, Siyu Yi, Wei Ju, Bei Wu, Ziyue Qiao, Chenwei Tang and Jiancheng Lv <br>
 International Joint Conference on Artificial Intelligence <br>
