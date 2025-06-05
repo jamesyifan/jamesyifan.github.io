@@ -8,6 +8,11 @@ author_profile: true
 
 2025
 ====
+1. *A Survey on Efficient Large Language Model Training: From Data-centric Perspectives* [[Paper](https://github.com/luo-junyu/Awesome-Data-Efficient-LLM)] <br>
+Junyu Luo, Bohan Wu, Xiao Luo, Zhiping Xiao, Yiqiao Jin, Rong-Cheng Tu, Nan Yin, **Yifan Wang**, Jingyang Yuan, Wei Ju, Ming Zhang. <br>
+Annual Meeting of the Association for Computational Linguistics <br>
+***ACL 2025, <span style="color:red">CCF-A</span>***
+
 1. *DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning* [[Paper]()] <br>
 **Yifan Wang**<sup>\*</sup>, Hourun Li<sup>\*</sup>, Ling Yue, Zhiping Xiao, Jia Yang, Changling Zhou, Wei Ju, Ming Zhang, Xiao Luo <br>
 International Conference on Machine Learning <br>
