@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yifan Wang is currently an assistant professor School of Information Technology & Management, University of International Business and Economics. Prior to that, he received his Ph.D. degree in Computer Science from Peking University in Jan. 2023, under the supervision of Prof. [Ming Zhang](https://cs.pku.edu.cn/info/1086/1730.htm). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as recommender systems, drug discovery, natural language processing and knowledge graphs. His work has received <a href='https://scholar.google.com/citations?user=olsrsjEAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations in total, with a cumulative journal impact factor exceeding 100.
+Yifan Wang is currently an assistant professor School of Information Technology & Management, University of International Business and Economics. Prior to that, he received his Ph.D. degree in Computer Science from Peking University in Jan. 2023, under the supervision of Prof. [Ming Zhang](https://cs.pku.edu.cn/info/1086/1730.htm). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as recommender systems, drug discovery, natural language processing and knowledge graphs. His work has received <a href='https://scholar.google.com/citations?hl=en&user=olsrsjEAAAAJ'><img src="https://img.shields.io/endpoint?url=https://machine-xy.github.io/google-scholar-citations-badge/citations.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations in total, with a cumulative journal impact factor exceeding 100.
 
 **Email:** yifanwang@uibe.edu.cn, yifanwang@pku.edu.cn, **<span style="color:red">长期招收solid background and self-motivated的研究生与本科生</span>**
 
@@ -27,6 +27,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **May. 2025**: One papers have been accepted by ***ACL 2025*** !!
 * **May. 2025**: One papers have been accepted by ***ICML 2025*** !!
 * **Apr. 2025**: One papers have been accepted by ***IJCAI 2025*** !!
 * **Mar. 2025**: One papers have been accepted by ***IEEE Transactions on Multimedia 2025*** !!
@@ -62,6 +63,11 @@ Research interests
 
 Survey
 =====
+1. *A Survey on Efficient Large Language Model Training: From Data-centric Perspectives* [[Paper](https://github.com/luo-junyu/Awesome-Data-Efficient-LLM)] <br>
+Junyu Luo, Bohan Wu, Xiao Luo, Zhiping Xiao, Yiqiao Jin, Rong-Cheng Tu, Nan Yin, **Yifan Wang**, Jingyang Yuan, Wei Ju, Ming Zhang. <br>
+Annual Meeting of the Association for Computational Linguistics <br>
+***ACL 2025, <span style="color:red">CCF-A</span>***
+   
 1.  *A Survey of Data-Efficient Graph Learning* [[Paper](https://arxiv.org/pdf/2402.00447.pdf)] <br>
 Wei Ju, Siyu Yi, **Yifan Wang**, Qingqing Long, Junyu Luo, Zhiping Xiao, and Ming Zhang <br>
 International Joint Conference on Artificial Intelligence <br>
@@ -94,7 +100,7 @@ International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
 
 1.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper]()] <br>
-Yuntai Ding, Tao Ren, **Yifan Wang**, Chong Chen, Xian-Sheng Hua, Wei Ju <br>
+Yuntai Ding, Tao Ren, **Yifan Wang<sup>\#</sup>**, Chong Chen, Xian-Sheng Hua, Wei Ju <br>
 IEEE Transactions on Multimedia <br>
 ***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>, <span style="color:orange">Corresponding Author</span>***
 
@@ -146,14 +152,14 @@ Junyu Luo, Zhiping Xiao, **Yifan Wang**, Xiao Luo, Jingyang Yuan, Wei Ju, Langec
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2024, <span style="color:red">CCF-A</span>***
 
-1.  *A Survey of Data-Efficient Graph Learning* [[Paper](https://arxiv.org/pdf/2402.00447.pdf)] <br>
+<!--1.  *A  of Data-Efficient Graph Learning* [[Paper](https://arxiv.org/pdf/2402.00447.pdf)] <br>
 Wei Ju, Siyu Yi, **Yifan Wang**, Qingqing Long, Junyu Luo, Zhiping Xiao, and Ming Zhang <br>
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2024, <span style="color:red">CCF-A</span>***
 
-1.  *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
+1.  *A Comprehensive  on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
 Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, **Yifan Wang**, Xiao Luo, and Ming Zhang <br>
-***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
+***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>*** -->
 
 1. *Unsupervised Graph-level Representation Learning with Hierarchical Contrasts* [[Paper](../files/NN-HGCL.pdf)] <br>
 Wei Ju, Yiyang Gu, Xiao Luo, **Yifan Wang**, Haochen Yuan, Huasong Zhong, and Ming Zhang. <br>
