@@ -27,6 +27,8 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **Jul. 2025**: Three papers have been accepted by ***MM 2025*** !!
+* **Jun. 2025**: Honored to be appointed as a committee member of the ***<span style="color:orange">Youth Working Committee of the Chinese Information Processing Society (CIPS)</span>*** !!
 * **May. 2025**: One papers have been accepted by ***ACL 2025*** !!
 * **May. 2025**: One papers have been accepted by ***ICML 2025*** !!
 * **Apr. 2025**: One papers have been accepted by ***IJCAI 2025*** !!
@@ -90,7 +92,7 @@ Publications [[See All](https://jamesyifan.github.io/publications/)]
 =====
 (\* Equal Contribution, \# Corresponding Author)
 1. *DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning* [[Paper]()] <br>
-**Yifan Wang**<sup>\*</sup>, Hourun Li<sup>\*</sup>, Ling Yue, Zhiping Xiao, Jia Yang, Changling Zhou, Wei Ju, Ming Zhang, Xiao Luo <br>
+**Yifan Wang<sup>\*</sup>**, Hourun Li<sup>\*</sup>, Ling Yue, Zhiping Xiao, Jia Yang, Changling Zhou, Wei Ju, Ming Zhang, Xiao Luo <br>
 International Conference on Machine Learning <br>
 ***ICML 2025, <span style="color:red">CCF-A</span>***
 
@@ -176,7 +178,7 @@ IEEE International Conference on Data Mining <br>
 ***ICDM 2022, <span style="color:red">CCF-B</span>, 🏆 <span style="color:orange">Best Paper Finalist</span>***
 
 1. *AD-AUG: Adversarial Data Augmentation for Counterfactual Recommendation* <br>
-**Yifan Wang**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Yu Han, Mingyang Yin, Jingren Zhou, Hongxia Yang and Ming Zhang <br>
+**Yifan Wang<sup>\*</sup>**, Yifang Qin<sup>\*</sup>, Yu Han, Mingyang Yin, Jingren Zhou, Hongxia Yang and Ming Zhang <br>
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases <br>
 ***ECML-PKDD 2022, <span style="color:red">CCF-B</span>***
 
