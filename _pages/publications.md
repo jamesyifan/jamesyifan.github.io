@@ -106,7 +106,7 @@ IEEE International Conference on Data Mining <br>
 ***ICDM 2022, <span style="color:red">CCF-B</span>, 🏆 <span style="color:orange">Best Paper Finalist</span>***
 
 1. *AD-AUG: Adversarial Data Augmentation for Counterfactual Recommendation* <br>
-**Yifan Wang**<sup>\*</sup>, Yifang Qin<sup>\*</sup>, Yu Han, Mingyang Yin, Jingren Zhou, Hongxia Yang and Ming Zhang <br>
+**Yifan Wang<sup>\*</sup>**, Yifang Qin<sup>\*</sup>, Yu Han, Mingyang Yin, Jingren Zhou, Hongxia Yang and Ming Zhang <br>
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases <br>
 ***ECML-PKDD 2022, <span style="color:red">CCF-B</span>***
 
