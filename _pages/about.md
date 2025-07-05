@@ -27,7 +27,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
-* **Jul. 2025**: Three papers have been accepted by ***MM 2025*** !!
+* **Jul. 2025**: Three papers have been accepted by ***ACM MM 2025*** !!
 * **Jun. 2025**: Honored to be appointed as a committee member of the ***<span style="color:orange">Youth Working Committee of the Chinese Information Processing Society (CIPS)</span>*** !!
 * **May. 2025**: One papers have been accepted by ***ACL 2025*** !!
 * **May. 2025**: One papers have been accepted by ***ICML 2025*** !!
