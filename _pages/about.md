@@ -27,6 +27,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **Jul. 2025**: One papers have been accepted by ***IEEE Transactions on Neural Networks and Learning Systems 2025*** !!
 * **Jul. 2025**: Three papers have been accepted by ***ACM MM 2025*** !!
 * **Jun. 2025**: Honored to be appointed as a committee member of the ***<span style="color:orange">Youth Working Committee of the Chinese Information Processing Society (CIPS)</span>*** !!
 * **May. 2025**: One papers have been accepted by ***ACL 2025*** !!
@@ -91,6 +92,26 @@ Wei Ju, **Yifan Wang**, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Junyu Luo, Junw
 Publications [[See All](https://jamesyifan.github.io/publications/)]
 =====
 (\* Equal Contribution, \# Corresponding Author)
+1. *Cluster-Aware Few-Shot Molecular Property Prediction with Factor Disentanglement* [[Paper]()] <br>
+Haodong Zhang, Tao Ren, Ying Tian, Fanchun Meng, Wei Ju, **Yifan Wang<sup>\#</sup>** <br>
+IEEE Transactions on Neural Networks and Learning Systems <br>
+***TNNLS 2025, <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>***
+
+1. *Deep Graph Clustering with Disentangled Representation Learning* [[Paper]()] <br>
+**Yifan Wang**, Yuntai Ding, Yiyang Gu, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, Wei Ju <br>
+ACM Multimedia 2025 <br>
+***ACM MM 2025, <span style="color:red">CCF-A</span>***
+   
+1. *DATE: Dual Prompt Learning with Information Bottleneck for Graph Out-of-distribution Generalization* [[Paper]()] <br>
+Jiayi Zeng, Tao Ren, Changhu Wang, **Yifan Wang<sup>\#</sup>**, Wei Ju, Zhipeng Sun, Xiao Luo <br>
+ACM Multimedia 2025 <br>
+***ACM MM 2025, <span style="color:red">CCF-A</span>***
+
+1. *CODE: Towards Partial Label Graph Learning via Coupled Dual Separation* [[Paper]()] <br>
+Yiyang Gu, Taian Guo, Hang Zhou, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo, Wei Ju, **Yifan Wang**, Ming Zhang <br>
+ACM Multimedia 2025 <br>
+***ACM MM 2025, <span style="color:red">CCF-A</span>***
+
 1. *DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning* [[Paper]()] <br>
 **Yifan Wang<sup>\*</sup>**, Hourun Li<sup>\*</sup>, Ling Yue, Zhiping Xiao, Jia Yang, Changling Zhou, Wei Ju, Ming Zhang, Xiao Luo <br>
 International Conference on Machine Learning <br>
