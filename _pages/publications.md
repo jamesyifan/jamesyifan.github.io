@@ -8,6 +8,26 @@ author_profile: true
 
 2025
 ====
+1. *Cluster-Aware Few-Shot Molecular Property Prediction with Factor Disentanglement* [[Paper]()] <br>
+Haodong Zhang, Tao Ren, Ying Tian, Fanchun Meng, Wei Ju, **Yifan Wang<sup>\#</sup>** <br>
+IEEE Transactions on Neural Networks and Learning Systems <br>
+***TNNLS 2025, <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>***
+
+1. *Deep Graph Clustering with Disentangled Representation Learning* [[Paper]()] <br>
+**Yifan Wang**, Yuntai Ding, Yiyang Gu, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, Wei Ju <br>
+ACM Multimedia 2025 <br>
+***ACM MM 2025, <span style="color:red">CCF-A</span>***
+   
+1. *DATE: Dual Prompt Learning with Information Bottleneck for Graph Out-of-distribution Generalization* [[Paper]()] <br>
+Jiayi Zeng, Tao Ren, Changhu Wang, **Yifan Wang<sup>\#</sup>**, Wei Ju, Zhipeng Sun, Xiao Luo <br>
+ACM Multimedia 2025 <br>
+***ACM MM 2025, <span style="color:red">CCF-A</span>***
+
+1. *CODE: Towards Partial Label Graph Learning via Coupled Dual Separation* [[Paper]()] <br>
+Yiyang Gu, Taian Guo, Hang Zhou, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo, Wei Ju, **Yifan Wang**, Ming Zhang <br>
+ACM Multimedia 2025 <br>
+***ACM MM 2025, <span style="color:red">CCF-A</span>***
+
 1. *A Survey on Efficient Large Language Model Training: From Data-centric Perspectives* [[Paper](https://github.com/luo-junyu/Awesome-Data-Efficient-LLM)] <br>
 Junyu Luo, Bohan Wu, Xiao Luo, Zhiping Xiao, Yiqiao Jin, Rong-Cheng Tu, Nan Yin, **Yifan Wang**, Jingyang Yuan, Wei Ju, Ming Zhang. <br>
 Annual Meeting of the Association for Computational Linguistics <br>
