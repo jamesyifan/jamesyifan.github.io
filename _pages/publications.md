@@ -9,7 +9,7 @@ author_profile: true
 2025
 ====
 1. *Cluster-Aware Few-Shot Molecular Property Prediction with Factor Disentanglement* [[Paper]()] <br>
-Haodong Zhang, Tao Ren, Ying Tian, Fanchun Meng, Wei Ju, **Yifan Wang<sup>\#</sup>** <br>
+Haodong Zhang, Tao Ren, **Yifan Wang<sup>\#</sup>**, Fanchun Meng, Wei Ju, Ying Tian <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2025, <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>***
 
