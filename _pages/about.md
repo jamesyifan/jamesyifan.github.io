@@ -280,6 +280,7 @@ Journal:
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+* IEEE Transactions on Big Data (TBD)
 * IEEE Transactions on Intelligent Vehicles (TIV)
 * IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 * Information Fusion (IF)
@@ -292,7 +293,7 @@ Journal:
 * Multimedia Systems
 
 Conference:
-* 2025: ICLR, ICML, AAAI, WWW 
-* 2024: ICLR, NeurIPS, ICML, KDD, WWW, ACL, AAAI, IJCAI, ACMMM
+* 2025: ICLR, NeurIPS, ICML, KDD, WWW, ACL ARR, AAAI, IJCAI, ACMMM
+* 2024: ICLR, NeurIPS, ICML, KDD, WWW, ACL ARR, AAAI, IJCAI, ACMMM
 * 2023: KDD, AAAI, IJCAI
 * 2022: IJCNN
