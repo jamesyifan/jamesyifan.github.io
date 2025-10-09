@@ -8,10 +8,20 @@ author_profile: true
 
 2025
 ====
+1.  *Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation* [[Paper]()] <br>
+Xin Ma<sup>\*</sup>, **Yifan Wang<sup>\*</sup>**, Siyu Yi, Wei Ju, Junyu Luo, Yusheng Zhao, Xiao Luo, Jiancheng Lv <br>
+Advances in Neural Information Processing Systems <br>
+***NeurIPS 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
+
+1.  *LEAF: Large Language Diffusion Model for Time Series Forecasting* [[Paper]()] <br>
+Yuhang Pei, Tao Ren, **Yifan Wang<sup>\#</sup>**, Zhipeng Sun, Wei Ju, Chong Chen, Xian-Sheng Hua, Xiao Luo <br>
+Conference on Empirical Methods in Natural Language Processing <br>
+***EMNLP 2025 Findings, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
+
 1. *Cluster-Aware Few-Shot Molecular Property Prediction with Factor Disentanglement* [[Paper]()] <br>
 Haodong Zhang, Tao Ren, **Yifan Wang<sup>\#</sup>**, Fanchun Meng, Wei Ju, Ying Tian <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
-***TNNLS 2025, <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>***
+***TNNLS 2025, <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>, <span style="color:orange">Corresponding Author</span>***
 
 1. *Deep Graph Clustering with Disentangled Representation Learning* [[Paper]()] <br>
 **Yifan Wang**, Yuntai Ding, Yiyang Gu, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, Wei Ju <br>
@@ -21,7 +31,7 @@ ACM Multimedia 2025 <br>
 1. *DATE: Dual Prompt Learning with Information Bottleneck for Graph Out-of-distribution Generalization* [[Paper]()] <br>
 Jiayi Zeng, Tao Ren, Changhu Wang, **Yifan Wang<sup>\#</sup>**, Wei Ju, Zhipeng Sun, Xiao Luo <br>
 ACM Multimedia 2025 <br>
-***ACM MM 2025, <span style="color:red">CCF-A</span>***
+***ACM MM 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1. *CODE: Towards Partial Label Graph Learning via Coupled Dual Separation* [[Paper]()] <br>
 Yiyang Gu, Taian Guo, Hang Zhou, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo, Wei Ju, **Yifan Wang**, Ming Zhang <br>
