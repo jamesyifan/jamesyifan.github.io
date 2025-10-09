@@ -27,24 +27,26 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
-* **Jul. 2025**: One papers have been accepted by ***IEEE Transactions on Neural Networks and Learning Systems 2025*** !!
+* **Seq. 2025**: One paper have been accepted by ***NeurIPS 2025*** !!
+* **Aug. 2025**: One paper have been accepted by ***EMNLP 2025*** !!
+* **Jul. 2025**: One paper have been accepted by ***IEEE Transactions on Neural Networks and Learning Systems 2025*** !!
 * **Jul. 2025**: Three papers have been accepted by ***ACM MM 2025*** !!
 * **Jun. 2025**: Honored to be appointed as a committee member of the ***<span style="color:orange">Youth Working Committee of the Chinese Information Processing Society (CIPS)</span>*** !!
-* **May. 2025**: One papers have been accepted by ***ACL 2025*** !!
-* **May. 2025**: One papers have been accepted by ***ICML 2025*** !!
-* **Apr. 2025**: One papers have been accepted by ***IJCAI 2025*** !!
-* **Mar. 2025**: One papers have been accepted by ***IEEE Transactions on Multimedia 2025*** !!
-* **Feb. 2025**: One papers have been accepted by ***Information Sciences 2025*** !!
-* **Jan. 2025**: One papers have been accepted by ***Information Processing and Management 2025*** !!
-* **Dec. 2024**: One papers have been accepted by ***AAAI 2025*** !!
-* **Dec. 2024**: One papers have been accepted by ***IEEE Transactions on Multimedia 2024*** !!
+* **May. 2025**: One paper have been accepted by ***ACL 2025*** !!
+* **May. 2025**: One paper have been accepted by ***ICML 2025*** !!
+* **Apr. 2025**: One paper have been accepted by ***IJCAI 2025*** !!
+* **Mar. 2025**: One paper have been accepted by ***IEEE Transactions on Multimedia 2025*** !!
+* **Feb. 2025**: One paper have been accepted by ***Information Sciences 2025*** !!
+* **Jan. 2025**: One paper have been accepted by ***Information Processing and Management 2025*** !!
+* **Dec. 2024**: One paper have been accepted by ***AAAI 2025*** !!
+* **Dec. 2024**: One paper have been accepted by ***IEEE Transactions on Multimedia 2024*** !!
 * **Nov. 2024**: Honored to be appointed as a committee member of the ***<span style="color:orange">Large Models and Generation (LMG) Committee of the Chinese Information Processing Society (CIPS)</span>*** !!
-* **Nov. 2024**: One papers have been accepted by ***ACM Transactions on Knowledge Discovery from Data 2024*** !!
+* **Nov. 2024**: One paper have been accepted by ***ACM Transactions on Knowledge Discovery from Data 2024*** !!
 * **Sep. 2024**: Honored to be awared ***<span style="color:orange">2024 Outstanding Doctoral Dissertation Award</span>*** of ***ACM SIGCSE*** !!
-* **Jul. 2024**: One papers have been accepted by ***IEEE Transactions on Neural Networks and Learning Systems 2024*** !!
-* **May. 2024**: One papers have been accepted by ***Data Science and Engineering 2024*** !!
-* **May. 2024**: One papers have been accepted by ***IEEE Transactions on Multimedia 2024*** !!
-* **May. 2024**: One papers have been accepted by ***ICML 2024*** !!
+* **Jul. 2024**: One paper have been accepted by ***IEEE Transactions on Neural Networks and Learning Systems 2024*** !!
+* **May. 2024**: One paper have been accepted by ***Data Science and Engineering 2024*** !!
+* **May. 2024**: One paper have been accepted by ***IEEE Transactions on Multimedia 2024*** !!
+* **May. 2024**: One paper have been accepted by ***ICML 2024*** !!
 * **Apr. 2024**: Two papers have been accepted by ***IJCAI 2024*** !!
 * **Feb. 2024**: One paper has been accepted by ***Neural Networks 2024*** !!
 * **Aug. 2023**: I joined the School of Information Technology & Management, University of International Business and Economics as an assistant professor.
@@ -92,10 +94,20 @@ Wei Ju, **Yifan Wang**, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Junyu Luo, Junw
 Publications [[See All](https://jamesyifan.github.io/publications/)]
 =====
 (\* Equal Contribution, \# Corresponding Author)
+1.  *Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation* [[Paper]()] <br>
+Xin Ma<sup>\*</sup>, **Yifan Wang<sup>\*</sup>**, Siyu Yi, Wei Ju, Junyu Luo, Yusheng Zhao, Xiao Luo, Jiancheng Lv <br>
+Advances in Neural Information Processing Systems <br>
+***NeurIPS 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
+
+1.  *LEAF: Large Language Diffusion Model for Time Series Forecasting* [[Paper]()] <br>
+Yuhang Pei, Tao Ren, **Yifan Wang<sup>\#</sup>**, Zhipeng Sun, Wei Ju, Chong Chen, Xian-Sheng Hua, Xiao Luo <br>
+Conference on Empirical Methods in Natural Language Processing <br>
+***EMNLP 2025 Findings, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
+
 1. *Cluster-Aware Few-Shot Molecular Property Prediction with Factor Disentanglement* [[Paper]()] <br>
 Haodong Zhang, Tao Ren, **Yifan Wang<sup>\#</sup>**, Fanchun Meng, Wei Ju, Ying Tian <br>
 IEEE Transactions on Neural Networks and Learning Systems <br>
-***TNNLS 2025, <span style="color:red">CCF-B, JCR Q1, IF=14.255</span>***
+***TNNLS 2025, <span style="color:red">CCF-B, JCR Q1, IF=14.255, <span style="color:orange">Corresponding Author</span></span>***
 
 1. *Deep Graph Clustering with Disentangled Representation Learning* [[Paper]()] <br>
 **Yifan Wang**, Yuntai Ding, Yiyang Gu, Ziyue Qiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, Wei Ju <br>
@@ -105,7 +117,7 @@ ACM Multimedia 2025 <br>
 1. *DATE: Dual Prompt Learning with Information Bottleneck for Graph Out-of-distribution Generalization* [[Paper]()] <br>
 Jiayi Zeng, Tao Ren, Changhu Wang, **Yifan Wang<sup>\#</sup>**, Wei Ju, Zhipeng Sun, Xiao Luo <br>
 ACM Multimedia 2025 <br>
-***ACM MM 2025, <span style="color:red">CCF-A</span>***
+***ACM MM 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1. *CODE: Towards Partial Label Graph Learning via Coupled Dual Separation* [[Paper]()] <br>
 Yiyang Gu, Taian Guo, Hang Zhou, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo, Wei Ju, **Yifan Wang**, Ming Zhang <br>
