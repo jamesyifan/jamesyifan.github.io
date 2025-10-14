@@ -189,7 +189,7 @@ International Joint Conference on Artificial Intelligence <br>
 
 1.  *A Comprehensive  on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
 Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, **Yifan Wang**, Xiao Luo, and Ming Zhang <br>
-***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>*** -->
+***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
 
 1. *Unsupervised Graph-level Representation Learning with Hierarchical Contrasts* [[Paper](../files/NN-HGCL.pdf)] <br>
 Wei Ju, Yiyang Gu, Xiao Luo, **Yifan Wang**, Haochen Yuan, Huasong Zhong, and Ming Zhang. <br>
