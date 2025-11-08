@@ -27,6 +27,8 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **Nov. 2025**: Two papers have been accepted by ***AAAI 2025*** !!
+* **Nov. 2025**: One paper has been accepted by ***IEEE Transactions on Pattern Analysis and Machine Intelligence*** !!
 * **Seq. 2025**: One paper have been accepted by ***NeurIPS 2025*** !!
 * **Aug. 2025**: One paper have been accepted by ***EMNLP 2025*** !!
 * **Jul. 2025**: One paper have been accepted by ***IEEE Transactions on Neural Networks and Learning Systems 2025*** !!
@@ -84,6 +86,7 @@ Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin,
 
 1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
 Wei Ju, Siyu Yi, **Yifan Wang**, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Xiao Luo, Philip S Yu, and Ming Zhang <br>
+***IEEE Transactions on Pattern Analysis and Machine Intelligence 2025, <span style="color:red">CCF-A, JCR Q1, IF=18.6</span>***
 
 1.  *Large Language Model Agent: A Survey on Methodology, Applications and Challenges* [[Paper](https://arxiv.org/pdf/2503.21460.pdf)] <br>
 Junyu Luo, Weizhi Zhang, Ye Yuan, Yusheng Zhao, Junwei Yang, Yiyang Gu, Bohan Wu, Binqi Chen, Ziyue Qiao, Qingqing Long, Rongcheng Tu, Xiao Luo, Wei Ju, Zhiping Xiao, **Yifan Wang**, Meng Xiao, Chenwu Liu, Jingyang Yuan, Shichang Zhang, Yiqiao Jin, Fan Zhang, Xian Wu, Hanqing Zhao, Dacheng Tao, Philip S Yu, Ming Zhang <br>
@@ -94,6 +97,11 @@ Wei Ju, **Yifan Wang**, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Junyu Luo, Junw
 Publications [[See All](https://jamesyifan.github.io/publications/)]
 =====
 (\* Equal Contribution, \# Corresponding Author)
+1.  *FairGC: Fostering Individual and Group Fairness for Deep Graph Clustering* [[Paper]()] <br>
+Haodong Zhang, Xinyue Wang, Tao Ren, **Yifan Wang<sup>\#</sup>**, Siyu Yi, Fanchun Meng, Zeyu Ma, QingqingLong, Wei Ju <br>
+AAAI Conference on Artificial Intelligence <br>
+***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation* [[Paper]()] <br>
 Xin Ma<sup>\*</sup>, **Yifan Wang<sup>\*</sup>**, Siyu Yi, Wei Ju, Junyu Luo, Yusheng Zhao, Xiao Luo, Jiancheng Lv <br>
 Advances in Neural Information Processing Systems <br>
@@ -118,11 +126,6 @@ ACM Multimedia 2025 <br>
 Jiayi Zeng, Tao Ren, Changhu Wang, **Yifan Wang<sup>\#</sup>**, Wei Ju, Zhipeng Sun, Xiao Luo <br>
 ACM Multimedia 2025 <br>
 ***ACM MM 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
-
-1. *CODE: Towards Partial Label Graph Learning via Coupled Dual Separation* [[Paper]()] <br>
-Yiyang Gu, Taian Guo, Hang Zhou, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo, Wei Ju, **Yifan Wang**, Ming Zhang <br>
-ACM Multimedia 2025 <br>
-***ACM MM 2025, <span style="color:red">CCF-A</span>***
 
 1. *DANCE: Dual Unbiased Expansion with Group-acquired Alignment for Out-of-distribution Graph Fairness Learning* [[Paper]()] <br>
 **Yifan Wang<sup>\*</sup>**, Hourun Li<sup>\*</sup>, Ling Yue, Zhiping Xiao, Jia Yang, Changling Zhou, Wei Ju, Ming Zhang, Xiao Luo <br>
@@ -151,6 +154,16 @@ Tao Ren, Haodong Zhang, **Yifan Wang**, Wei Ju, Chengwu Liu, Fanchun Meng, Siyu 
 Hourun Li, **Yifan Wang<sup>\*</sup>**, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, Wei Ju <br>
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
+
+1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper]()] <br>
+Wei Zhang, Siyu Yi, Lezhi Chen, **Yifan Wang**, Ziyue Qiao, Yongdao Zhou, Wei Ju <br>
+AAAI Conference on Artificial Intelligence <br>
+***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
+1. *CODE: Towards Partial Label Graph Learning via Coupled Dual Separation* [[Paper]()] <br>
+Yiyang Gu, Taian Guo, Hang Zhou, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo, Wei Ju, **Yifan Wang**, Ming Zhang <br>
+ACM Multimedia 2025 <br>
+***ACM MM 2025, <span style="color:red">CCF-A</span>***
 
 1.  *Hypergraph Consistency Learning with Relational Distillation* [[Paper]()] <br>
 Siyu Yi, Zhengyang Mao, **Yifan Wang**, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, Wei Ju <br>
