@@ -8,6 +8,20 @@ author_profile: true
 
 2025
 ====
+1.  *FairGC: Fostering Individual and Group Fairness for Deep Graph Clustering* [[Paper]()] <br>
+Haodong Zhang, Xinyue Wang, Tao Ren, **Yifan Wang<sup>\#</sup>**, Siyu Yi, Fanchun Meng, Zeyu Ma, QingqingLong, Wei Ju <br>
+AAAI Conference on Artificial Intelligence <br>
+***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper]()] <br>
+Wei Zhang, Siyu Yi, Lezhi Chen, **Yifan Wang**, Ziyue Qiao, Yongdao Zhou, Wei Ju <br>
+AAAI Conference on Artificial Intelligence <br>
+***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
+Wei Ju, Siyu Yi, **Yifan Wang**, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Xiao Luo, Philip S Yu, and Ming Zhang <br>
+***IEEE Transactions on Pattern Analysis and Machine Intelligence 2025, <span style="color:red">CCF-A, JCR Q1, IF=18.6</span>***
+
 1.  *Dual Prototype-Enhanced Contrastive Framework for Class-Imbalanced Graph Domain Adaptation* [[Paper]()] <br>
 Xin Ma<sup>\*</sup>, **Yifan Wang<sup>\*</sup>**, Siyu Yi, Wei Ju, Junyu Luo, Yusheng Zhao, Xiao Luo, Jiancheng Lv <br>
 Advances in Neural Information Processing Systems <br>
