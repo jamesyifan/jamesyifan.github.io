@@ -11,22 +11,22 @@ author_profile: true
 1.  *DisCo: Diffusion-guided Unbiased Discriminative Learning for Unsupervised Graph Domain Adaptation* [[Paper]()] <br>
 Haodong Zhang, Tao Ren, Changhu Wang, **Yifan Wang<sup>\#</sup>**, Wei Ju, Huaizhi Tang, Junyu Luo, Zimo Wang, Ziyue Qiao, Xian-Sheng Hua, Xiao Luo
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
-***KDD 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+***KDD 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Dual Data-centric Separation with Circular Mixup for Noise-resistant Time Series Learning* [[Paper]()] <br>
 Yuhang Pei, Fanchun Meng, Qinghua Ran, Tao Ren, **Yifan Wang<sup>\#</sup>**, Wei Ju, Zimo Wang, Xian-Sheng Hua, Xiao Luo
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
-***KDD 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+***KDD 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *FairGC: Fostering Individual and Group Fairness for Deep Graph Clustering* [[Paper]()] <br>
 Haodong Zhang, Xinyue Wang, Tao Ren, **Yifan Wang<sup>\#</sup>**, Siyu Yi, Fanchun Meng, Zeyu Ma, QingqingLong, Wei Ju <br>
 AAAI Conference on Artificial Intelligence <br>
-***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper]()] <br>
 Wei Zhang, Siyu Yi, Lezhi Chen, **Yifan Wang**, Ziyue Qiao, Yongdao Zhou, Wei Ju <br>
 AAAI Conference on Artificial Intelligence <br>
-***AAAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
 Wei Ju, Siyu Yi, **Yifan Wang**, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Xiao Luo, Philip S Yu, and Ming Zhang <br>
