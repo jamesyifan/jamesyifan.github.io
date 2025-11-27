@@ -27,6 +27,7 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **Nov. 2025**: Two papers have been accepted by ***SIGKDD 2025*** !!
 * **Nov. 2025**: Two papers have been accepted by ***AAAI 2025*** !!
 * **Nov. 2025**: One paper has been accepted by ***IEEE Transactions on Pattern Analysis and Machine Intelligence*** !!
 * **Seq. 2025**: One paper have been accepted by ***NeurIPS 2025*** !!
@@ -97,6 +98,16 @@ Wei Ju, **Yifan Wang**, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Junyu Luo, Junw
 Publications [[See All](https://jamesyifan.github.io/publications/)]
 =====
 (\* Equal Contribution, \# Corresponding Author)
+1.  *DisCo: Diffusion-guided Unbiased Discriminative Learning for Unsupervised Graph Domain Adaptation* [[Paper]()] <br>
+Haodong Zhang, Tao Ren, Changhu Wang, **Yifan Wang<sup>\#</sup>**, Wei Ju, Huaizhi Tang, Junyu Luo, Zimo Wang, Ziyue Qiao, Xian-Sheng Hua, Xiao Luo
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
+***KDD 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
+1.  *Dual Data-centric Separation with Circular Mixup for Noise-resistant Time Series Learning* [[Paper]()] <br>
+Yuhang Pei, Fanchun Meng, Qinghua Ran, Tao Ren, **Yifan Wang<sup>\#</sup>**, Wei Ju, Zimo Wang, Xian-Sheng Hua, Xiao Luo
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
+***KDD 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *FairGC: Fostering Individual and Group Fairness for Deep Graph Clustering* [[Paper]()] <br>
 Haodong Zhang, Xinyue Wang, Tao Ren, **Yifan Wang<sup>\#</sup>**, Siyu Yi, Fanchun Meng, Zeyu Ma, QingqingLong, Wei Ju <br>
 AAAI Conference on Artificial Intelligence <br>
