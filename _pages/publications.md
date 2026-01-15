@@ -24,7 +24,7 @@ AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper]()] <br>
-Wei Zhang, Siyu Yi, Lezhi Chen, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju <br>
+Wei Zhang, Siyu Yi, Lezhi Chen, **Yifan Wang**, Ziyue Qiao, Yongdao Zhou, Wei Ju <br>
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>***
 
