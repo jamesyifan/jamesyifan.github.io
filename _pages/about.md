@@ -169,7 +169,7 @@ AAAI Conference on Artificial Intelligence <br>
 1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper]()] <br>
 Wei Zhang, Siyu Yi, Lezhi Chen, **Yifan Wang**, Ziyue Qiao, Yongdao Zhou, Wei Ju <br>
 AAAI Conference on Artificial Intelligence <br>
-***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+***AAAI 2026, <span style="color:red">CCF-A</span>***
 
 1. *CODE: Towards Partial Label Graph Learning via Coupled Dual Separation* [[Paper]()] <br>
 Yiyang Gu, Taian Guo, Hang Zhou, Zihao Chen, Zhiping Xiao, Yifang Qin, Xiao Luo, Wei Ju, **Yifan Wang**, Ming Zhang <br>
