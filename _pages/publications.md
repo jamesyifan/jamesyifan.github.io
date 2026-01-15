@@ -24,9 +24,9 @@ AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data* [[Paper]()] <br>
-Wei Zhang, Siyu Yi, Lezhi Chen, **Yifan Wang**, Ziyue Qiao, Yongdao Zhou, Wei Ju <br>
+Wei Zhang, Siyu Yi, Lezhi Chen, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju <br>
 AAAI Conference on Artificial Intelligence <br>
-***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+***AAAI 2026, <span style="color:red">CCF-A</span>***
 
 1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
 Wei Ju, Siyu Yi, **Yifan Wang**, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Xiao Luo, Philip S Yu, and Ming Zhang <br>
