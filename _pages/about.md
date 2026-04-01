@@ -28,7 +28,7 @@ Research interests
 <span style="color:red">What’s New</span>
 =====
 * **Jan. 2026**: Three papers have been accepted by ***ICLR 2026*** !!
-* **Jan. 2026**: One papers have been accepted by ***WWW 2026*** !!
+* **Jan. 2026**: Three papers have been accepted by ***WWW 2026*** !!
 * **Nov. 2025**: Two papers have been accepted by ***SIGKDD 2026*** !!
 * **Nov. 2025**: Two papers have been accepted by ***AAAI 2026*** !!
 * **Nov. 2025**: One paper has been accepted by ***IEEE Transactions on Pattern Analysis and Machine Intelligence*** !!
