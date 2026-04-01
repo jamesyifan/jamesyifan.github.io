@@ -27,6 +27,8 @@ Research interests
 
 <span style="color:red">What’s New</span>
 =====
+* **Jan. 2026**: Three papers have been accepted by ***ICLR 2026*** !!
+* **Jan. 2026**: One papers have been accepted by ***WWW 2026*** !!
 * **Nov. 2025**: Two papers have been accepted by ***SIGKDD 2026*** !!
 * **Nov. 2025**: Two papers have been accepted by ***AAAI 2026*** !!
 * **Nov. 2025**: One paper has been accepted by ***IEEE Transactions on Pattern Analysis and Machine Intelligence*** !!
@@ -98,6 +100,11 @@ Wei Ju, **Yifan Wang**, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Junyu Luo, Junw
 Publications [[See All](https://jamesyifan.github.io/publications/)]
 =====
 (\* Equal Contribution, \# Corresponding Author)
+1. *KEGOD: Kernel-enhanced Latent Substructure Learning for Graph Out-Of-Distribution Detection* [[Paper]()] <br>
+**Yifan Wang**, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, Siyu Yi, Nan Yin, Xinwang Liu, Ming Zhang, Wei Ju <br>
+The ACM Web Conference <br>
+***WWW 2026, <span style="color:red">CCF-A</span>***
+
 1.  *DisCo: Diffusion-guided Unbiased Discriminative Learning for Unsupervised Graph Domain Adaptation* [[Paper]()] <br>
 Haodong Zhang, Tao Ren, Changhu Wang, **Yifan Wang<sup>\#</sup>**, Wei Ju, Huaizhi Tang, Junyu Luo, Zimo Wang, Ziyue Qiao, Xian-Sheng Hua, Xiao Luo <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
