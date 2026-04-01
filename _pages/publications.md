@@ -53,6 +53,10 @@ Wei Ju, Siyu Yi, Zhengyang Mao, Yifang Qin, **Yifan Wang**, Zhiping Xiao, Yiwei 
 ACM The Web Conference <br>
 ***WWW 2026, <span style="color:red">CCF-A</span>***
 
+1. *Space-based Parameter Evolving with Lightweight Optimization for Graph Adaptation to Evolving Shifts	* [[Paper]()] <br>
+Junyu Luo, Zixuan Ouyang, Xiao Luo, Hourun Li, Zhiping Xiao, **Yifan Wang**, Ming Zhang <br>
+ACM The Web Conference <br>
+***WWW 2026, <span style="color:red">CCF-A</span>***
 
 2025
 ====
