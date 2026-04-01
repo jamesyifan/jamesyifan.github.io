@@ -6,8 +6,13 @@ author_profile: true
 ---
 (\* Equal Contribution, \# Corresponding Author)
 
-2025
+2026
 ====
+1.  *KEGOD: Kernel-enhanced Latent Substructure Learning for Graph Out-Of-Distribution Detection* [[Paper]()] <br>
+**Yifan Wang**, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, Siyu Yi, Nan Yin, Xinwang Liu, Ming Zhang, Wei Ju <br>
+ACM The Web Conference <br>
+***WWW 2026, <span style="color:red">CCF-A</span>***
+
 1.  *DisCo: Diffusion-guided Unbiased Discriminative Learning for Unsupervised Graph Domain Adaptation* [[Paper]()] <br>
 Haodong Zhang, Tao Ren, Changhu Wang, **Yifan Wang<sup>\#</sup>**, Wei Ju, Huaizhi Tang, Junyu Luo, Zimo Wang, Ziyue Qiao, Xian-Sheng Hua, Xiao Luo <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining <br>
@@ -28,6 +33,29 @@ Wei Zhang, Siyu Yi, Lezhi Chen, **Yifan Wang**, Ziyue Qiao, Yongdao Zhou, Wei Ju
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>***
 
+1.  *Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering* [[Paper]()] <br>
+Wei Ju, Siyu Yi, Kangjie Zheng, **Yifan Wang**, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv <br>
+International Conference on Learning Representations<br>
+***ICLR 2026, <span style="color:red">CCF-A</span>***
+
+1.  *Dynamic Multi-sample Mixup with Gradient Exploration for Open-set Graph Anomaly Detection* [[Paper]()] <br>
+Caiyang Yu, Wei Ju, Haixin Wang, **Yifan Wang**, Ziyue Qiao <br>
+International Conference on Learning Representations<br>
+***ICLR 2026, <span style="color:red">CCF-A</span>***
+
+1.  *Conformalized Hierarchical Calibration for Uncertainty-Aware Adaptive Hashing* [[Paper]()] <br>
+Junyu Luo, Jinsheng Huang, Yang Xu, Lutong Zou, Xiao Luo, Bohan Wu, **Yifan Wang**, Wei Ju, Ming Zhang <br>
+International Conference on Learning Representations<br>
+***ICLR 2026, <span style="color:red">CCF-A</span>***
+
+1.  *Long-Tailed Recognition of Evidential Experts for Graph-level Classification* [[Paper]()] <br>
+Wei Ju, Siyu Yi, Zhengyang Mao, Yifang Qin, **Yifan Wang**, Zhiping Xiao, Yiwei Fu, Ziyue Qiao, Ming Zhang <br>
+ACM The Web Conference <br>
+***WWW 2026, <span style="color:red">CCF-A</span>***
+
+
+2025
+====
 1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
 Wei Ju, Siyu Yi, **Yifan Wang**, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Xiao Luo, Philip S Yu, and Ming Zhang <br>
 ***IEEE Transactions on Pattern Analysis and Machine Intelligence 2025, <span style="color:red">CCF-A, JCR Q1, IF=18.6</span>***
