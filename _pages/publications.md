@@ -142,12 +142,12 @@ International Conference on Machine Learning <br>
 1.  *PALA: Class-imbalanced Graph Domain Adaptation via Prototype-anchored Learning and Alignment* [[Paper]()] <br>
 Xin Ma, **Yifan Wang<sup>\*</sup>**, Siyu Yi, Wei Ju, Bei Wu, Ziyue Qiao, Chenwei Tang and Jiancheng Lv <br>
 International Joint Conference on Artificial Intelligence <br>
-***IJCAI 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
+***IJCAI 2025, <span style="color:red">CCF-B</span>, <span style="color:orange">Co-first Author</span>***
 
 1.  *Reversible Column Disentangled Augmentation Tricks for Graph Contrastive Learning* [[Paper]()] <br>
 Yuntai Ding, Tao Ren, **Yifan Wang<sup>\#</sup>**, Chong Chen, Xian-Sheng Hua, Wei Ju <br>
 IEEE Transactions on Multimedia <br>
-***TMM 2025, <span style="color:red">CCF-B, JCR Q1, IF=8.4</span>, <span style="color:orange">Corresponding Author</span>***
+***TMM 2025, <span style="color:red">CCF-A, JCR Q1, IF=8.4</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *GMR-Rec: Graph mutual regularization learning for multi-domain recommendation* [[Paper](../files/IS25-GMR-Rec.pdf)] <br>
 **Yifan Wang**, Yangzi Yang, Shuai Li, Yutao Xie, Zhiping Xiao, Ming Zhang, Wei Ju <br>
@@ -182,7 +182,7 @@ IEEE Transactions on Neural Networks and Learning Systems <br>
 1.  *Graph-enhanced Prompt Learning for Personalized Review Generation* [[Paper]()] <br>
 Xiaoru Qu, **Yifan Wang<sup>\#</sup>**, Zhao Li, Jun Gao <br>
 Data Science and Engineering <br>
-***DSE 2024, <span style="color:red">CCF-C, JCR Q2, IF=4.2</span>, <span style="color:orange">Corresponding Author</span>***
+***DSE 2024, <span style="color:red">CCF-B, JCR Q1, IF=5.1</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [[Paper]()] <br>
 Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Wei Ju, Chong Chen, Xian-Sheng Hua, **Yifan Wang**, Xiao Luo, Ming Zhang <br>
