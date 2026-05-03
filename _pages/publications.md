@@ -8,6 +8,26 @@ author_profile: true
 
 2026
 ====
+1. *CLINIC: Towards High-quality Graph Out-Of-Distribution Detection* [[Paper]()] <br>
+**Yifan Wang**, Haodong Zhang, Changhu Wang, Tao Ren, Dongjie Wang, Wei Ju, Chong Chen, Xian-Sheng Hua, Xiao Luo <br>
+International Conference on Machine Learning <br>
+***ICML 2026, <span style="color:red">CCF-A</span>***
+
+1. *CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification* [[Paper]()] <br>
+Yuhang Pei, Fanchun Meng, Wenrui Wu, Tao Ren, **Yifan Wang<sup>\#</sup>**, Wei Ju, Chao Zheng, Xiao Luo <br>
+International Conference on Machine Learning <br>
+***ICML 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
+1. *CELL: A Causal Perspective for Fairness-aware Graph Adaptation* [[Paper]()] <br>
+Hourun Li, **Yifan Wang<sup>\#</sup>**, Qinghua Ran, Junyu Luo, Jia Yang, Changling Zhou, Zhiping Xiao, Wei Ju, Xiao Luo, Ming Zhang <br>
+International Conference on Machine Learning <br>
+***ICML 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
+1. *HGOOD-D: Hyperbolic Hierarchical Exploration for Graph Out-of-Distribution Detection* [[Paper]()] <br>
+Yuntai Ding, Tao Ren, Yiwei Fu, **Yifan Wang<sup>\#</sup>**, Haodong Zhang, Chong Chen, Wei Ju, Xiao Luo, Xian-Sheng Hua
+IEEE Transactions on Knowledge and Data Engineering <br>
+***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>, <span style="color:orange">Corresponding Author</span>***
+
 1.  *KEGOD: Kernel-enhanced Latent Substructure Learning for Graph Out-Of-Distribution Detection* [[Paper]()] <br>
 **Yifan Wang**, Haodong Zhang, Zhiping Xiao, Yusheng Zhao, Siyu Yi, Nan Yin, Xinwang Liu, Ming Zhang, Wei Ju <br>
 ACM The Web Conference <br>
@@ -32,6 +52,21 @@ AAAI Conference on Artificial Intelligence <br>
 Wei Zhang, Siyu Yi, Lezhi Chen, **Yifan Wang**, Ziyue Qiao, Yongdao Zhou, Wei Ju <br>
 AAAI Conference on Artificial Intelligence <br>
 ***AAAI 2026, <span style="color:red">CCF-A</span>***
+
+1. *HGOOD: Hypergraph-enhanced Graph Contrastive Learning for Graph Out-of-Distribution Detection* [[Paper]()] <br>
+Yueyue Gao, Chenyu Wang, Xuanting Fan, Wei Ju, **Yifan Wang<sup>\#</sup>**
+International Joint Conference on Artificial Intelligence <br>
+***IJCAI 2026, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
+
+1. *scGTN: Deep Siamese Graph Transformer Network for Single-cell RNA Sequencing Clustering* [[Paper]()] <br>
+Jinke Wu, **Yifan Wang<sup>\*</sup>**, Siyu Yi, Caiyang Yu, Ziyue Qiao, Nan Yin, Jiancheng Lv, Wei Ju
+International Joint Conference on Artificial Intelligence <br>
+***IJCAI 2026, <span style="color:red">CCF-B</span>, <span style="color:orange">Co-first Author</span>***
+
+1. *Identifying and Correcting Label Noise for Robust GNNs via Influence Contradiction*  [[Paper]()] <br>
+Wei Ju, Wei Zhang, Siyu Yi, Zhengyang Mao, Yifan Wang, Jingyang Yuan, Zhiping Xiao, Ziyue Qiao, Ming Zhang
+International Conference on Machine Learning <br>
+***ICML 2026, <span style="color:red">CCF-A</span>***
 
 1.  *Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering* [[Paper]()] <br>
 Wei Ju, Siyu Yi, Kangjie Zheng, **Yifan Wang**, Ziyue Qiao, Li Shen, Yongdao Zhou, Xiaochun Cao, Jiancheng Lv <br>
