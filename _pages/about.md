@@ -140,7 +140,7 @@ Xin Ma<sup>\*</sup>, **Yifan Wang<sup>\*</sup>**, Siyu Yi, Wei Ju, Junyu Luo, Yu
 Advances in Neural Information Processing Systems <br>
 ***NeurIPS 2025, <span style="color:red">CCF-A</span>, <span style="color:orange">Co-first Author</span>***
 
-1. *HGOOD-D: Hyperbolic Hierarchical Exploration for Graph Out-of-Distribution Detection*
+1. *HGOOD-D: Hyperbolic Hierarchical Exploration for Graph Out-of-Distribution Detection* [[Paper]()] <br>
 Yuntai Ding, Tao Ren, Yiwei Fu, **Yifan Wang<sup>\#</sup>**, Haodong Zhang, Chong Chen, Wei Ju, Xiao Luo, Xian-Sheng Hua
 IEEE Transactions on Knowledge and Data Engineering <br>
 ***TKDE 2026, <span style="color:red">CCF-A, JCR Q1, IF=10.4</span>, <span style="color:orange">Corresponding Author</span>***
@@ -200,12 +200,12 @@ Haodong Zhang, Tao Ren, **Yifan Wang<sup>\#</sup>**, Fanchun Meng, Wei Ju, Ying 
 IEEE Transactions on Neural Networks and Learning Systems <br>
 ***TNNLS 2025, <span style="color:red">CCF-B, JCR Q1, IF=14.255, <span style="color:orange">Corresponding Author</span></span>***
 
-1. *HGOOD: Hypergraph-enhanced Graph Contrastive Learning for Graph Out-of-Distribution Detection*
+1. *HGOOD: Hypergraph-enhanced Graph Contrastive Learning for Graph Out-of-Distribution Detection* [[Paper]()] <br>
 Yueyue Gao, Chenyu Wang, Xuanting Fan, Wei Ju, **Yifan Wang<sup>\#</sup>**
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2026, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
 
-1. *scGTN: Deep Siamese Graph Transformer Network for Single-cell RNA Sequencing Clustering*
+1. *scGTN: Deep Siamese Graph Transformer Network for Single-cell RNA Sequencing Clustering* [[Paper]()] <br>
 Jinke Wu, **Yifan Wang<sup>\*</sup>**, Siyu Yi, Caiyang Yu, Ziyue Qiao, Nan Yin, Jiancheng Lv, Wei Ju
 International Joint Conference on Artificial Intelligence <br>
 ***IJCAI 2025, <span style="color:red">CCF-B</span>, <span style="color:orange">Co-first Author</span>***
