@@ -9,7 +9,7 @@ redirect_from:
 
 Yifan Wang is currently an assistant professor at School of Artificial Intelligence and Data Science, University of International Business and Economics. Prior to that, he received his Ph.D. degree in Computer Science from Peking University in Jan. 2023, under the supervision of Prof. [Ming Zhang](https://cs.pku.edu.cn/info/1086/1730.htm). His current research interests lie primarily in the area of machine learning on graphs including graph representation learning and graph neural networks, and interdisciplinary applications such as recommender systems, drug discovery, natural language processing and knowledge graphs. His work has received <a href='https://scholar.google.com/citations?hl=en&user=olsrsjEAAAAJ'><img src="https://img.shields.io/endpoint?url=https://jamesyifan.github.io/google-scholar-citations-badge/citations.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> citations in total, with a cumulative journal impact factor exceeding 100.
 
-王一帆，对外经济贸易大学人工智能与数据科学学院助理教授，硕士生导师，中国中文信息学会大模型与生成专业委员会委员，中国人工智能学会青年工作委员会委员，中国中文信息学会青年工作委员会预备委员，于2023年在北京大学计算机学院获博士学位。研究兴趣主要集中于图神经网络、图机器学习，可信机器学习，时间序列模型，科学智能（AI4Science/Socialscience）, 大语言模型方面。近5年在机器学习、数据挖掘等领域发表/接收CCF-A/B类论文50余篇（第一/通讯作者30余篇），总引用次数为<a href='https://scholar.google.com/citations?hl=en&user=olsrsjEAAAAJ'><img src="https://img.shields.io/endpoint?url=https://jamesyifan.github.io/google-scholar-citations-badge/citations.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>，总影响因子超100，相关研究成果发表在TPAMI、TKDE、TMM、TNNLS、ICLR、ICML、NeurIPS、ACL、KDD、WWW、AAAI、IJCAI等机器学习和数据挖掘的国际顶级期刊和会议上，荣获2022年国际顶级会议ICDM的最佳论文提名奖和2024年度ACM SIGCSE中国“优博奖”。
+王一帆，对外经济贸易大学人工智能与数据科学学院助理教授，硕士生导师，中国中文信息学会大模型与生成专业委员会委员，中国人工智能学会青年工作委员会委员，中国中文信息学会青年工作委员会预备委员，于2023年在北京大学计算机学院获博士学位。研究兴趣主要集中于图神经网络、图机器学习，可信机器学习，时间序列模型，科学智能（AI4Science/Socialscience）, 大语言模型方面。近5年在机器学习、数据挖掘等领域发表/接收CCF-A/B类论文50余篇（第一/通讯作者30余篇），总引用次数为<a href='https://scholar.google.com/citations?hl=en&user=olsrsjEAAAAJ'><img src="https://img.shields.io/endpoint?url=https://jamesyifan.github.io/google-scholar-citations-badge/citations.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>，总影响因子超100，相关研究成果发表在TPAMI、TKDE、TMM、TNNLS、ICLR、ICML、NeurIPS、ACL、KDD、WWW、AAAI、IJCAI等机器学习和数据挖掘的国际顶级期刊和会议上，入选ESI全球前0.1%热点论文1篇，前1%高被引论文3篇，荣获2022年国际顶级会议ICDM的最佳论文提名奖和2024年度ACM SIGCSE中国“优博奖”。
 
 **<span style="color:red">招收2027年秋季入学硕士研究生2名，欢迎有意向的同学投递简历至yifanwang@uibe.edu.cn</span>**
 
@@ -100,7 +100,7 @@ International Joint Conference on Artificial Intelligence <br>
 
 1. *A Comprehensive Survey on Deep Graph Representation Learning* [[Paper](https://arxiv.org/pdf/2304.05055.pdf)] <br>
 Wei Ju, Zheng Fang, Yiyang Gu, Zequn Liu, Qingqing Long, Ziyue Qiao, Yifang Qin, Jianhao Shen, Fang Sun, Zhiping Xiao, Junwei Yang, Jingyang Yuan, Yusheng Zhao, **Yifan Wang**, Xiao Luo, and Ming Zhang. <br>
-***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>***
+***Neural Networks 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.8</span>,<span style="color:red">ESI Hot & Highly Cited Paper</span>***
 
 1.  *A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges* [[Paper](https://arxiv.org/pdf/2403.04468.pdf)] <br>
 Wei Ju, Siyu Yi, **Yifan Wang**, Zhiping Xiao, Zhengyang Mao, Hourun Li, Yiyang Gu, Yifang Qin, Nan Yin, Senzhang Wang, Xinwang Liu, Xiao Luo, Philip S Yu, and Ming Zhang <br>
@@ -221,7 +221,7 @@ International Joint Conference on Artificial Intelligence <br>
 
 1.  *MHGC: Multi-scale hard sample mining for contrastive deep graph clustering* [[Paper]()] <br>
 Tao Ren, Haodong Zhang, **Yifan Wang**, Wei Ju, Chengwu Liu, Fanchun Meng, Siyu Yi, Xiao Luo <br>
-***Information Processing and Management 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.4</span>, <span style="color:orange">Corresponding Author</span>***
+***Information Processing and Management 2025, <span style="color:red">CCF-B, JCR Q1, IF=7.4</span>, <span style="color:orange">Corresponding Author</span>,  <span style="color:red">ESI Highly Cited Paper</span>***
 
 1. *DisenSemi: Semi-supervised Graph Classification via Disentangled Representation Learning* [[Paper]()] <br>
 **Yifan Wang**, Xiao Luo, Chong Chen, Xian-Sheng Hua, Ming Zhang and Wei Ju <br>
