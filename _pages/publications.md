@@ -187,7 +187,7 @@ Data Science and Engineering <br>
 1.  *DEER: Distribution Divergence-based Graph Contrast for Partial Label Learning on Graphs* [[Paper]()] <br>
 Yiyang Gu, Zihao Chen, Yifang Qin, Zhengyang Mao, Zhiping Xiao, Wei Ju, Chong Chen, Xian-Sheng Hua, **Yifan Wang**, Xiao Luo, Ming Zhang <br>
 IEEE Transactions on Multimedia <br>
-***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>***
+***TMM 2024, <span style="color:red">CCF-B, JCR Q1, IF=7.3</span>, <span style="color:red">ESI Highly Cited Paper</span>***
 
 1.  *Hypergraph-enhanced Dual Semi-supervised Graph Classification* [[Paper]()] <br>
 Wei Ju, Zhengyang Mao, Siyu Yi, Yifang Qin, Yiyang Gu, Zhiping Xiao, **Yifan Wang**, Xiao Luo, and Ming Zhang <br>
