@@ -38,6 +38,9 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **Jul. 2026**: Invited to serve as the Senior Program Committee (SPC) Member for AAAI 2026!
+* **Jul. 2026**: One papers have been accepted by ***Pattern Recognition 2026*** !!
+* **Jul. 2026**: Two papers have been accepted by ***ACM MM 2026*** !!
 * **May. 2026**: Four papers have been accepted by ***ICML 2026*** !!
 * **May. 2026**: Two papers have been accepted by ***IJCAI 2026*** !!
 * **May. 2026**: One papers have been accepted by ***TKDE 2026*** !!
