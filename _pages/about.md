@@ -38,8 +38,12 @@ Area Chair / Senior Program Committee Member
 
 <span style="color:red">What’s New</span>
 =====
+* **Oct. 2026**: Three papers have been accepted by ***NeurIPS 2026*** !!
+* **Sep. 2026**: Invited to serve as the Area Chair for ICLR 2027!
+* **Aug. 2026**: Invited to serve as the Senior Program Committee (SPC) Member for WSDM 2027!
+* **Aug. 2026**: Two papers have been accepted by ***EMNLP 2026*** !!
 * **Jul. 2026**: One papers have been accepted by ***IEEE Transactions on Knowledge and Data Engineering 2026*** !!
-* **Jul. 2026**: Invited to serve as the Senior Program Committee (SPC) Member for AAAI 2026!
+* **Jul. 2026**: Invited to serve as the Senior Program Committee (SPC) Member for AAAI 2027!
 * **Jul. 2026**: One papers have been accepted by ***Pattern Recognition 2026*** !!
 * **Jul. 2026**: Two papers have been accepted by ***ACM MM 2026*** !!
 * **May. 2026**: Four papers have been accepted by ***ICML 2026*** !!
@@ -51,7 +55,7 @@ Area Chair / Senior Program Committee Member
 * **Nov. 2025**: Two papers have been accepted by ***SIGKDD 2026*** !!
 * **Nov. 2025**: Two papers have been accepted by ***AAAI 2026*** !!
 * **Nov. 2025**: One paper has been accepted by ***IEEE Transactions on Pattern Analysis and Machine Intelligence*** !!
-* **Seq. 2025**: One paper have been accepted by ***NeurIPS 2025*** !!
+* **Sep. 2025**: One paper have been accepted by ***NeurIPS 2025*** !!
 * **Aug. 2025**: One paper have been accepted by ***EMNLP 2025*** !!
 * **Jul. 2025**: One paper have been accepted by ***IEEE Transactions on Neural Networks and Learning Systems 2025*** !!
 * **Jul. 2025**: Three papers have been accepted by ***ACM MM 2025*** !!
