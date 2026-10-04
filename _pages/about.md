@@ -128,6 +128,21 @@ Publications [[See All](https://jamesyifan.github.io/publications/)]
 International Conference on Machine Learning <br>
 ***ICML 2026, <span style="color:red">CCF-A</span>***
 
+1. *PATH: A Dual Perspective for High-quality Text-attributed Graph Learning* [[Paper]()] <br>
+**Yifan Wang**, Fanchun Meng, Changhu Wang, Tao Ren, Yuhang Pei, Wei Ju, Chong Chen, Xian-Sheng Hua, Xiao Luo <br>
+Advances in Neural Information Processing Systems <br>
+***NeurIPS 2026, <span style="color:red">CCF-A</span>***
+
+1. *CLEAR: Complementary Tripartite Play with Bayesian Calibration for Semi-Supervised Edge Classification* [[Paper]()] <br>
+Zhipeng Sun, Fanchun Meng, Jiazhen Huang, Yongpeng Zhang, Tao Ren, **Yifan Wang<sup>\#</sup>**, Wei Ju, Xiao Luo <br>
+Advances in Neural Information Processing Systems <br>
+***NeurIPS 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Spotlight</span>, <span style="color:orange">Corresponding Author</span>***
+
+1. *Complementary Cache Guidance with Gradient Disentanglement for Continuous Test-Time Adaptation* [[Paper]()] <br>
+Fanchun Meng, Yuhang Pei, Jiazhen Huang, Tao Ren, **Yifan Wang<sup>\#</sup>**, Wei Ju, Xiao Luo <br>
+Advances in Neural Information Processing Systems <br>
+***NeurIPS 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+
 1. *CURE: Context-driven Diffusion with Progressive Expansion for Single Domain Generalization in Time Series Classification* [[Paper]()] <br>
 Yuhang Pei, Fanchun Meng, Wenrui Wu, Tao Ren, **Yifan Wang<sup>\#</sup>**, Wei Ju, Chao Zheng, Xiao Luo <br>
 International Conference on Machine Learning <br>
@@ -186,12 +201,12 @@ IEEE Transactions on Multimedia <br>
 1.  *FairGC: Fostering Individual and Group Fairness for Deep Graph Clustering* [[Paper]()] <br>
 Haodong Zhang, Xinyue Wang, Tao Ren, **Yifan Wang<sup>\#</sup>**, Siyu Yi, Fanchun Meng, Zeyu Ma, QingqingLong, Wei Ju <br>
 AAAI Conference on Artificial Intelligence <br>
-***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Corresponding Author</span>***
+***AAAI 2026, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral</span>, <span style="color:orange">Corresponding Author</span>***
 
 1. *DisenCite: Graph-based Disentangled Representation Learning for Context-specific Citation Generation* <br>
 **Yifan Wang**, Yiping Song, Shuai Li, Chaoran Cheng, Wei Ju, Ming Zhang, and Sheng Wang <br>
 AAAI Conference on Artificial Intelligence <br>
-***AAAI 2022, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral Representation</span>***
+***AAAI 2022, <span style="color:red">CCF-A</span>, <span style="color:orange">Oral</span>***
 
 1.  *DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation* [[Paper]()] <br>
 Hourun Li, **Yifan Wang<sup>\*</sup>**, Zhiping Xiao, Jia Yang, Changling Zhou, Ming Zhang, Wei Ju <br>
@@ -250,6 +265,11 @@ ACM International Conference on Web Search and Data Mining <br>
 **Yifan Wang<sup>\*</sup>**, Yifang Qin<sup>\*</sup>, Yu Han, Mingyang Yin, Jingren Zhou, Hongxia Yang and Ming Zhang <br>
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases <br>
 ***ECML-PKDD 2022, <span style="color:red">CCF-B</span>***
+
+1.  *CMAS: Enhancing Data Augmentation for Molecular Graph Classification via a Collaborative Multi-Agent System* [[Paper]()] <br>
+Xuanting Fan, Chenyu Wang, Xin Liu, Weiyi Ren, **Yifan Wang<sup>\#</sup>**, Xiao Luo <br>
+Conference on Empirical Methods in Natural Language Processing <br>
+***EMNLP 2026 Findings, <span style="color:red">CCF-B</span>, <span style="color:orange">Corresponding Author</span>***
 
 1.  *LEAF: Large Language Diffusion Model for Time Series Forecasting* [[Paper]()] <br>
 Yuhang Pei, Tao Ren, **Yifan Wang<sup>\#</sup>**, Zhipeng Sun, Wei Ju, Chong Chen, Xian-Sheng Hua, Xiao Luo <br>
