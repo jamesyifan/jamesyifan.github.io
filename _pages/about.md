@@ -36,7 +36,7 @@ Area Chair / Senior Program Committee Member
 * **Area Chair**:\\
 2027: ICLR
 * **SPC**:\\
-2027: AAAI, WSDM
+2027: AAAI, WSDM\\
 2026: IJCAI
 
 <span style="color:red">What’s New</span>
