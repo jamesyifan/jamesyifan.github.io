@@ -17,8 +17,11 @@ Education
 
 Work experience
 ======
-* 2023.08-Now: Assistant Professor
-  * School of Information Technology & Management, University of International Business and Economics
+* 2026.08-Now: Associate Professor
+  * School of Artificial Intelligence and Data Science, University of International Business and Economics
+
+* 2023.08-2026.06: Assistant Professor
+  * School of Artificial Intelligence and Data Science, University of International Business and Economics
 
 * 2021.10-2022.06: Research Intern
   * DAMO Academy, Alibaba Group
