@@ -34,7 +34,7 @@ Research interests
 Area Chair / Senior Program Committee Member
 =====
 * **Area Chair**:\\
-2027: ICLR, ACL, ARR
+2027: ICLR, ACL ARR
 * **SPC**:\\
 2027: AAAI, WSDM, IJCAI\\
 2026: IJCAI
