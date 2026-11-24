@@ -34,13 +34,14 @@ Research interests
 Area Chair / Senior Program Committee Member
 =====
 * **Area Chair**:\\
-2027: ICLR
+2027: ICLR, ACL, ARR
 * **SPC**:\\
-2027: AAAI, WSDM\\
+2027: AAAI, WSDM, IJCAI\\
 2026: IJCAI
 
 <span style="color:red">What’s New</span>
 =====
+* **Nov. 2026**: Three papers have been accepted by ***KDD 2027*** !!
 * **Oct. 2026**: Three papers have been accepted by ***NeurIPS 2026*** with one **Spotlight** presentation !!
 * **Sep. 2026**: Invited to serve as the Area Chair for ICLR 2027!
 * **Aug. 2026**: Invited to serve as the Senior Program Committee (SPC) Member for WSDM 2027!
